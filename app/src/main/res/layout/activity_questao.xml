@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="#EAEAEA"
+    android:orientation="vertical"
+    tools:context="com.example.lucas.rumoaoif.Questao">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Chronometer
+            android:id="@+id/cronometro"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="3"
+            android:format="Tempo decorrido: %s"
+            android:text="Chronometer"
+            android:textSize="20sp"
+            android:textColor="#000000"/>
+        <ImageView
+            android:id="@+id/correcao"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <TextView android:id="@+id/exame"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Exame de Seleção 2013"
+        android:textColor="#000000"
+        android:textSize="25sp"/>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:id="@+id/redacao"
+            android:layout_marginTop="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Texto"
+            android:visibility="gone"
+            android:onClick="ler"/>
+        <TextView android:id="@+id/questao"
+            android:layout_marginTop="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Questão 1"
+            android:textSize="15sp"
+            android:textColor="#000000"/>
+        <TextView android:id="@+id/quesito"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"/>
+        <ImageView
+            android:id="@+id/question"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:visibility="gone"/>
+        <RadioGroup
+            android:id="@+id/alternativas"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <RadioButton
+                android:id="@+id/a"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="A) "
+                android:checked="false"
+                android:textColor="#000000" />
+            <RadioButton
+                android:id="@+id/b"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="B) "
+                android:textColor="#000000"
+                android:checked="false"/>
+            <RadioButton
+                android:id="@+id/c"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="C) "
+                android:textColor="#000000"
+                android:checked="false"/>
+            <RadioButton
+                android:id="@+id/d"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="D) "
+                android:textColor="#000000"
+                android:checked="false"/>
+            <RadioButton
+                android:id="@+id/e"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="E) "
+                android:textColor="#000000"
+                android:checked="false"/>
+        </RadioGroup>
+        <Button
+            android:id="@+id/pa"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Pronto"
+            android:onClick="proxima"/>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

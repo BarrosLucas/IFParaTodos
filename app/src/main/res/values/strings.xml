@@ -1,0 +1,1150 @@
+<resources>
+    <string name="app_name">PARA TODOS</string>
+
+    <string name="_1">Desse texto, só não se pode inferir que</string>
+    <string name="_1a">o título “Vida entre parênteses” também simboliza, para o narrador, que a vida se encerra num ciclo: começo, meio e fim.</string>
+    <string name="_1b">os “parênteses” a que se refere o autor, na discussão a partir do segundo parágrafo, são as digressões que permeiam a vida humana.</string>
+    <string name="_1c">os sinais gráficos, para o escritor, têm um sentido muito maior do que o de traduzirem a forma de escrever: também revelam a forma como alguém conduz a própria vida.</string>
+    <string name="_1d">a resposta à pergunta do leitor, a qual é o mote do autor no primeiro parágrafo, é dada no terceiro parágrafo: usar os parênteses na escrita é uma espécie de transtorno psíquico.</string>
+    <string name="_1e">o uso dos parênteses no texto veicula as impressões do narrador, as quais ele compartilha com o leitor.</string>
+
+    <string name="_2">Assinale a única opção em que a correspondência entre os elementos textuais está correta.</string>
+    <string name="_2a">“algo” (l. 8) corresponde a “pensar”.</string>
+    <string name="_2b">“a” (l. 12) corresponde a “dúvida”.</string>
+    <string name="_2c">“isto” (l. 13) corresponde a “ponto de interrogação”.</string>
+    <string name="_2d">“isto” (l. 42) corresponde a “parênteses”.</string>
+    <string name="_2e">“esgotada” (l. 46) corresponde a “vida”.</string>
+
+    <string name="_3">Nas alternativas a seguir, as palavras são classificadas de acordo com o contexto em que são empregadas. Marque a alternativa cuja classificação da palavra destacada está errada.</string>
+    <string name="_3a">“pensar”, na construção: “A pergunta me fez pensar (não chega a ser um evento raro na minha existência, ...)”, é um substantivo, pois exerce a função de sujeito do verbo “chegar”.</string>
+    <string name="_3b">Em: “... mais que as letras (por muito importantes que estas sejam), ...”, “estas” é um pronome substantivo, pois substitui “letras”.</string>
+    <string name="_3c">O primeiro “que”, na frase: “Mas temos que admitir que certos sinais...”, é preposição, pois pode ser substituído por “de”.</string>
+    <string name="_3d">A palavra “caminho”, no trecho: “... a vírgula, esta pequenina serpente que, de espaço em espaço, atravessa o caminho, ...”, é advérbio de lugar.</string>
+    <string name="_3e">No período: “Lamentável é que a vida tenha uma única edição.”, a palavra “que” é conjunção subordinativa integrante.</string>
+
+    <string name="_4">A palavra “mas” geralmente estabelece uma relação de oposição entre as orações ou entre os termos que liga. Em qual dos períodos abaixo, de acordo com o texto, essa relação adversativa não acontece?</string>
+    <string name="_4a">“A pergunta me fez pensar (não chega a ser um evento raro na minha existência, mas pensar entre parênteses não era algo que eu fizesse com frequência).”</string>
+    <string name="_4b">“Sobre isto sempre somos reticentes… Mas temos que admitir que certos sinais, como, por exemplo, a vírgula, ...”</string>
+    <string name="_4c">“... é uma evidência, não muito clara, decerto, mas evidência, sim, de nossa indecisão.”</string>
+    <string name="_4d">“... traduzem não apenas uma forma de escrever, mas (o que é mais importante) um modo de viver.”</string>
+    <string name="_4e">“O executivo que, no meio da tarde (nessas horas que os americanos chamam de “menores” mas que para muitos são as maiores), ...”</string>
+
+    <string name="_5">Entre estas análises acerca da concordância verbal, só há uma correta. Qual?</string>
+    <string name="_5a">Na oração: “E pode haver dúvida maior que a do ponto de interrogação?” (l. 12), o verbo “haver” tem o sentido de “existir”, razão por que o verbo auxiliar permanecerá no singular, mesmo que o seu sujeito “dúvida” esteja no plural.</string>
+    <string name="_5b">O verbo “ser”, em: “... é uma evidência, não muito clara, decerto, mas evidência, sim, de nossa indecisão.”(l. 17), deveria estar no plural, concordando com o sujeito “certos sinais”.</string>
+    <string name="_5c">Ainda em: “... é uma evidência, não muito clara, decerto, mas evidência, sim, de nossa indecisão.” (l. 17), o verbo “ser” ficou no singular porque concorda com o sujeito “a vírgula”.</string>
+    <string name="_5d">O verbo “dar”, no período: “Deu tanta confusão que, nas edições seguintes, tive de tirar os parênteses ...” (l. 42), está no singular concordando com o sujeito “tanta confusão”.</string>
+    <string name="_5e">No período: “Lamentável é que a vida tenha uma única edição.” (l. 45), o verbo “ser” está no singular em concordância com o sujeito “lamentável”.</string>
+
+    <string name="_6">A vírgula é empregada para isolar o adjunto adverbial deslocado. Em apenas uma alternativa, o emprego da vírgula, nos trechos destacados, não atende a essa justificativa. Assinale-a.</string>
+    <string name="_6a">“O garoto (ah, esses garotos) que, <u>no meio do tema</u>, se distrai pensando na sua coleguinha...”</string>
+    <string name="_6b">“O executivo que, <u>no meio da tarde (...)</u>, sai para uma escapada ...”</string>
+    <string name="_6c">“<u>Uma vez</u>, escrevi um livro chamado (O ciclo das águas).</string>
+    <string name="_6d">“Deu tanta confusão que, <u>nas edições seguintes</u>, tive de tirar os parênteses ...”</string>
+    <string name="_6e">“... para escapar dos parênteses, só mesmo assim, <u>em novas edições</u>.”</string>
+
+    <string name="_7">Assinale a única alternativa correta quanto à interpretação textual.</string>
+    <string name="_7a">O comportamento do personagem diante da notícia reflete o da maioria dos nossos telespectadores, que repudia o horário eleitoral gratuito na televisão, principalmente pela falta de credibilidade nos políticos brasileiros.</string>
+    <string name="_7b">“Valeu!!” é um desabafo de alegria, pois, para o garoto, os eleitores não terão a oportunidade do exercício crítico, o que favorecerá a vitória ao candidato dele.</string>
+    <string name="_7c">Com a expressão “Valeu!!”, o garoto complementa a fala do primeiro interlocutor, demonstrando que o período da propaganda eleitoral foi valioso para o livre exercício do voto.</string>
+    <string name="_7d">A atitude do garoto é de ironia diante do que acaba de ouvir na televisão, pois a ausência do debate televisionado tira do eleitor a oportunidade de escolher certo o novo prefeito da cidade.</string>
+    <string name="_7e">O grito de “Valeu!!” indica que, acabado o horário eleitoral, o personagem se sente verdadeiramente preparado para o exercício da cidadania: eleger um representante público.</string>
+
+    <string name="_8">Quanto à acentuação tônica, a palavra, na fala do interlocutor televisivo, que tem a mesma classificação da palavra “Valeu” é?</string>
+    <string name="_8a">“que”.</string>
+    <string name="_8b">“não”.</string>
+    <string name="_8c">“mais”.</string>
+    <string name="_8d">“será”.</string>
+    <string name="_8e">“com”.</string>
+
+    <string name="_9">Marque a alternativa que apresenta erro quanto à análise sintática dos elementos textuais.</string>
+    <string name="_9a">Podemos substituir a locução verbal “será realizado” por “se realizará”, sem alteração do tempo e do modo verbal.</string>
+    <string name="_9b">A expressão “com os candidatos” é complemento verbal de “debate”.</string>
+    <string name="_9c">No complemento nominal “a prefeitura”, deveria ocorrer a crase: “à prefeitura”.</string>
+    <string name="_9d">Identificam-se, na informação aos telespectadores, dois termos que funcionam como sujeito de oração. Um deles, entretanto, está oculto.</string>
+    <string name="_9e">“Valeu!!” é um verbo que, nesse contexto funciona como uma interjeição.</string>
+
+    <string name="_10">Dadas as afirmações seguintes sobre o texto, assinale a alternativa incorreta.</string>
+    <string name="_10a">No poema, as imagens são construídas a partir de verbos.</string>
+    <string name="_10b">O poema é essencialmente nominal, ou seja, não apresenta verbos.</string>
+    <string name="_10c">As expressões “do eu” e “do mundo”, na primeira estrofe, modificam os núcleos “pobreza” e “opulência”, respectivamente; logo, desempenham função sintática de adjuntos adnominais.</string>
+    <string name="_10d">A intenção do produtor do texto está voltada para a própria mensagem, o que caracteriza a função poética da linguagem.</string>
+    <string name="_10e">A construção do poema tem como base o contraste de palavras, que formam vários pares antitéticos.</string>
+
+    <string name="_11">Assinale a alternativa em que o sentido da palavra “Balanço”, que dá título ao poema, distancia-se do texto.</string>
+    <string name="_11a">Balanço – ideia de oscilação, pois as palavras trocam de posição (pobreza/opulência, eu/mundo).</string>
+    <string name="_11b">Balanço – verificação ou resumo de contas comerciais.</string>
+    <string name="_11c">Balanço – saldo da relação entre a riqueza e pobreza, por um lado, e entre o eu e o mundo, por outro.</string>
+    <string name="_11d">Balanço – levantamento de receita e despesa.</string>
+    <string name="_11e">Balanço – ato ou efeito de balançar-se.</string>
+
+    <string name="_12">A respeito da opulência e da pobreza do eu e do mundo, presentes no poema, chega-se a uma conclusão</string>
+    <string name="_12a">pessimista, uma vez que não há certeza sobre nada, tudo é incerto.</string>
+    <string name="_12b">otimista, acredita-se haver certeza de tudo.</string>
+    <string name="_12c">otimista, porque a ideia de oscilação está sempre constante.</string>
+    <string name="_12d">pessimista, porque na última estrofe aparece a palavra “incerteza”.</string>
+    <string name="_12e">otimista, tendo em vista a palavra “certeza” presente no último verso do poema.</string>
+
+    <string name="_13">Na oração: “[...] apenas <u>me</u> daria uma <u>esperança colateral</u>” (1º parágrafo), os termos em destaque exercem a função sintática, respectivamente, de</string>
+    <string name="_13a">objeto direto, sujeito e adjunto adnominal.</string>
+    <string name="_13b">objeto indireto, sujeito e adjunto adnominal.</string>
+    <string name="_13c">objeto indireto, objeto direto e adjunto adnominal.</string>
+    <string name="_13d">objeto direto, sujeito e complemento nominal.</string>
+    <string name="_13e">objeto indireto, objeto direto e predicativo.</string>
+
+    <string name="_14">Tomando como base a oração: “Que abismo que há entre o espírito e o coração!”, assinale a alternativa correta.</string>
+    <string name="_14a">A forma verbal “há”, de largo uso, é considerada coloquial e a Gramática Normativa recomenda substituí-la por “existe”.</string>
+    <string name="_14b">O verbo “haver” possui o mesmo sentido e o mesmo comportamento sintático que o verbo “existir” (ambos são pessoais).</string>
+    <string name="_14c">Sendo a forma verbal “há” seguida de seu sujeito “o espírito e o coração”, está incorretamente flexionada.</string>
+    <string name="_14d">Se substituirmos o verbo “haver” por “existir”, e o substantivo “abismo” por “abismos”, teríamos que flexionar o verbo “existir” para o plural (“Que abismos que existem entre...).</string>
+    <string name="_14e">Se substituirmos o verbo “haver” por “existir”, e o substantivo “abismo” por “abismos”, não poderíamos pluralizar o verbo “existir” (“Que abismos que existe entre...).</string>
+
+    <string name="_15">Considere as afirmações abaixo sobre o fragmento: “Ele, o coração, vai dizendo que, uma vez que a mana Piedade [...]” (2º parágrafo):\nI. A palavra “coração” desempenha função sintática de aposto e explica o pronome pessoal reto (ele).\nII. Caso omitíssemos a palavra “coração” após o pronome “ele”, geraria um problema de sentidos: a frase se tornaria ambígua, pois não seria possível saber se o pronome estaria se referindo ao coração de Rubião ou ao próprio Rubião.\nIII. Se o substantivo “coração” fosse retirado, ficaria “Ele vai dizendo que...”, o pronome “ele” estaria se referindo ao próprio personagem Rubião.\nQuais são corretas?</string>
+    <string name="_15a">Apenas I</string>
+    <string name="_15b">Apenas II</string>
+    <string name="_15c">Apenas III</string>
+    <string name="_15d">Apenas II e III</string>
+    <string name="_15e">Apenas I, II e III</string>
+
+    <string name="_16">Do período: “linhas tortas, pensa ele”, não se pode afirmar que</string>
+    <string name="_16a">o travessão, indicador do discurso direto, pode ser substituído por aspas.</string>
+    <string name="_16b">o gênero textual é caracterizado como uma narrativa em terceira pessoa, comprovada pela passagem que mostra a fala do personagem e por todos os verbos na terceira pessoa.</string>
+    <string name="_16c">ocorre o discurso indireto, porque o narrador utiliza suas próprias palavras para reproduzir o que foi dito do personagem.</string>
+    <string name="_16d">o narrador mantém uma postura de observador, limitando-se apenas a observar objetivamente os acontecimentos – narrador onisciente.</string>
+    <string name="_16e">a forma verbal “vejam” encontra-se no Imperativo Afirmativo – 3ª pessoa do plural.</string>
+
+    <string name="_17">Considerando a análise do fragmento de texto em questão, avalie as alternativas e assinale a correta.</string>
+    <string name="_17a">As duas primeiras vírgulas, empregadas no fragmento de texto, justificam-se porque separam um termo deslocado.</string>
+    <string name="_17b">As duas primeiras vírgulas do texto foram usadas para intercalar um aposto.</string>
+    <string name="_17c">Em “[...] as forças que nos farão plenos e verdadeiros”, o verbo encontra-se no plural, concordando com o antecedente do pronome relativo.</string>
+    <string name="_17d">Em “[...] as forças que nos farão plenos e verdadeiros”, o verbo está flexionado para concordar com o sujeito composto e posposto (plenos e verdadeiros), também pluralizado.</string>
+    <string name="_17e">Na oração: “[...] o mundo dobra-se sempre às nossas decisões”, a partícula “se” é um indicador de que o sujeito encontra-se indeterminado.</string>
+
+    <string name="_18">Na oração: “<u>Nossa</u> plenitude, eis <u>o</u> <u>que</u> importa”, os vocábulos grifados são, sucessivamente,</string>
+    <string name="_18a">pronome possessivo, artigo e pronome relativo.</string>
+    <string name="_18b">pronome possessivo, pronome demonstrativo e pronome relativo.</string>
+    <string name="_18c">pronome demonstrativo, artigo e conjunção.</string>
+    <string name="_18d">pronome possessivo, pronome demonstrativo e conjunção.</string>
+    <string name="_18e">pronome indefinido, pronome demonstrativo e pronome relativo.</string>
+
+    <string name="_19">O Oriente Médio pode ser considerado como a parte do planeta que mais apresenta focos de conflitos, com destaque para as divergências entre árabes e judeus, fato que teve início a partir da instauração do Estado de Israel, em 1947. Diante do quadro desolador, o Conselho de Segurança da ONU (Organização das Nações Unidas) aprovou e propôs, através dos Estados Unidos, a criação de um Estado palestino. Além das divergências políticas, ocorrem também as divergências religiosas que envolvem</string>
+    <string name="_19a">hindus contra budistas.</string>
+    <string name="_19b">budistas contra xintoístas.</string>
+    <string name="_19c">judeus contra muçulmanos.</string>
+    <string name="_19d">muçulmanos contra hinduístas.</string>
+    <string name="_19e">católicos contra judeus.</string>
+
+    <string name="_20">A violência urbana tem ocasionado a morte de milhares de jovens no Brasil, é o principal fator de mortandade dessa faixa etária. A criminalidade não é um “privilégio” exclusivo dos grandes centros urbanos do país, entretanto o seu crescimento élargamente maior do que em cidades menores.\nÉ nas grandes cidades brasileiras que se concentram os principais problemas sociais que são determinantes para o estabelecimento e a proliferação da marginalidade e, consequentemente, da criminalidade que vem acompanhada pela violência.\nA violência gerada nas cidades brasileiras é a consequência</string>
+    <string name="_20a">da falta de intolerância religiosa.</string>
+    <string name="_20b">da eficiência da segurança pública.</string>
+    <string name="_20c">da falta de serviços públicos assistenciais.</string>
+    <string name="_20d">da farta mão de obra destinada aos serviços terciários.</string>
+    <string name="_20e">da cartelização da economia.</string>
+
+    <string name="_21">Com base no texto acima, em fatos recentes e na temática “fontes de energia”, assinale a alternativa incorreta.</string>
+    <string name="_21a">Em países em desenvolvimento como Índia e Brasil, a melhoria da qualidade de vida ocasiona um aumento no consumo de energia elétrica que nem sempre é suprido satisfatoriamente.</string>
+    <string name="_21b">Uma das opções apontadas no texto como solução para o problema dos “apagões” é a da abertura de minas de carvão mineral que agravam ainda mais a poluição ambiental.</string>
+    <string name="_21c">A falta de infraestrutura ou a ocorrência de fenômenos naturais (ventos fortes, raios etc) podem ocasionar os “apagões”.</string>
+    <string name="_21d">A utilização de combustíveis verdes para suprir a deficiência na produção de energia pode levar a uma redução da poluição, e consequentemente, da degradação ambiental.</string>
+    <string name="_21e">No Brasil, nos últimos meses não foram registrados “apagões” de energia elétrica.</string>
+
+    <string name="_22">Com base no texto e nos conhecimentos adquiridos, assinale a alternativa que não está correta.</string>
+    <string name="_22a">Nascem mais homens do que mulheres, mas a partir da idade adulta, as mulheres se tornam maioria porque os homens morrem mais por motivos violentos (brigas, acidentes de trânsito etc) e maus hábitos (consumo de bebidas alcoólicas, fumo, drogas etc).</string>
+    <string name="_22b">O envelhecimento da população brasileira aponta para um aumento nas despesas com a Saúde Pública, o que poderá levar a um aumento na carga tributária.</string>
+    <string name="_22c">A redução das taxas de mortalidade infantil ocorreu de forma proporcional em todas as regiões brasileiras.</string>
+    <string name="_22d">Os adultos pagarão cada vez mais impostos para manter as despesas com os mais jovens e com os idosos aposentados.</string>
+    <string name="_22e">O aumento na proporção de idosos elevará ainda mais as despesas com a Previdência Social, agravando o déficit público.</string>
+
+    <string name="_23">Marque a alternativa correta.</string>
+    <string name="_23a">(1/2) &lt; (1/3) &lt; (1/4) &lt; (1/5)</string>
+    <string name="_23b">(1/2) &gt; (3/2) &gt; (5/2) &gt; (7/2)</string>
+    <string name="_23c">(1/2) &lt; (2/3) &lt; (3/4) &lt; (4/5)</string>
+    <string name="_23d">(2/5) &gt; (1/5) &gt; (2/3) &gt; (4/9)</string>
+    <string name="_23e">(5/9) &gt; (4/3) &gt; (22/27) &gt; (5/23)</string>
+
+    <string name="_24">Comecei hoje a tomar três tipos de remédio (A, B e C), na mesma hora. Isso significa que abri as três caixas ao mesmo tempo. O remédio A vem em caixas com 10 comprimidos; o B, em caixas com 20 comprimidos; o C, em caixas com 30 comprimidos. Vou abrir três caixas ao mesmo tempo, novamente, daqui a</string>
+    <string name="_24a">10 dias.</string>
+    <string name="_24b">20 dias.</string>
+    <string name="_24c">30 dias.</string>
+    <string name="_24d">60 dias.</string>
+    <string name="_24e">120 dias.</string>
+
+    <string name="_25">O valor da expressão [(x/2)+(y/3)+(z/4)]/[(x/4)+(y/3)+(z/2)], para x = 1, y = 3 e z = 2 é</string>
+    <string name="_25a">8/9</string>
+    <string name="_25b">4/5</string>
+    <string name="_25c">9/8</string>
+    <string name="_25d">9/4</string>
+    <string name="_25e">2/9</string>
+
+    <string name="_26">Assinale a alternativa que completa a frase: Dividindo 20 por 0,5 e dividindo o resultado por 1/2,</string>
+    <string name="_26a">você encontra 5.</string>
+    <string name="_26b">você encontra 10.</string>
+    <string name="_26c">você encontra 20.</string>
+    <string name="_26d">você encontra 40.</string>
+    <string name="_26e">Você encontra 80.</string>
+
+    <string name="_27">O perímetro de um triângulo, cujos lados medem 10,5 dm, 170 cm e 1250 mm, mede</string>
+    <string name="_27a">400m</string>
+    <string name="_27b">40m</string>
+    <string name="_27c">400dm</string>
+    <string name="_27d">4m</string>
+    <string name="_27e">40000mm</string>
+
+    <string name="_28">O valor de x que satisfaz a equação (x/2)-(3/2)=(x/3)-(2/3) é</string>
+    <string name="_28a">-(13/5)</string>
+    <string name="_28b">-1</string>
+    <string name="_28c">0</string>
+    <string name="_28d">1</string>
+    <string name="_28e">5</string>
+
+    <string name="_29">Assinale o sistema cuja solução é a dupla {(-1,2)}</string>
+    <string name="_29a">x + y = -1\nx - y = -3</string>
+    <string name="_29b">2x + y = 0\n2x - y = 0</string>
+    <string name="_29c">x - 2y = 5\n2x - y = -4</string>
+    <string name="_29d">x - y = -3\n3x + y = 1</string>
+    <string name="_29e">x - 3y = -7\n2x + 3y = 4</string>
+
+    <string name="_30">O único valor de "n" que não satisfaz à inequação 3n - 4 &#8805; 4n - 9 é</string>
+    <string name="_30a">6</string>
+    <string name="_30b">5</string>
+    <string name="_30c">4</string>
+    <string name="_30d">3</string>
+    <string name="_30e">2</string>
+
+    <string name="_31">A soma de um número com seu triplo é igual à diferença entre o quíntuplo desse número e 20. A metade desse número é</string>
+    <string name="_31a">20</string>
+    <string name="_31b">10</string>
+    <string name="_31c">5</string>
+    <string name="_31d">0</string>
+    <string name="_31e">Inexistente, pois o número citado não existe.</string>
+
+    <string name="_32">Na construção civil, geralmente se usa, como unidade de medida, uma lata de 18 litros. Para produzir 40 latas de concreto, um operário colocou 4 latas de cimento, 16 de areia e 20 de brita. As razões entre a quantidade de cimento e brita e a quantidade de areia e brita são, respectivamente,</string>
+    <string name="_32a">1/4 e 4/5</string>
+    <string name="_32b">1/5 e 1/4</string>
+    <string name="_32c">1/5 e 4/5</string>
+    <string name="_32d">4/5 e 1/5</string>
+    <string name="_32e">5/1 e 5/4</string>
+
+    <string name="_33">A soma de dois números m e n (m &gt; n) é igual a 35 e a razão entre eles é 4/3. Assim podemos afirmar que</string>
+    <string name="_33a">m . n = 300</string>
+    <string name="_33b">m = 25 e n = 10</string>
+    <string name="_33c">m = 28 e n = 7</string>
+    <string name="_33d">m - n = 25</string>
+    <string name="_33e">m e n são números pares.</string>
+
+    <!--    <string name="_34">Marque as afirmativas verdadeiras com o número 2, e as falsas com o número 1. \nI) Se três homens fabricam 20 peças, trabalhando 8 horas por dia, 6 homens fabricarão 40 peças idênticas às primeiras, no mesmo espaço de tempo. \nII) 0,5% de 60 é 3.\nIII) 0,25% de 200 é 0,5. \nO número formado de cima para baixo é</string>-->
+    <string name="_34">Marque as afirmativas verdadeiras com o numero 2, e as falsas com o número 1.\nI. Se tres homens fabricam 20 peças, trabalhando 8 horas por dia, 6 homens fabricarão 40 peças idênticas às primeiras, no mesmo espaço de tempo.\nII. 0,5 porcento de 60 e 3.\nIII. 0,25 porcento de 200 é 0,5.\nO número formado de cima para baixo é</string>
+    <string name="_34a">222</string>
+    <string name="_34b">212</string>
+    <string name="_34c">211</string>
+    <string name="_34d">121</string>
+    <string name="_34e">112</string>
+
+    <string name="_35">A soma (x + 1)&#178; + (x – 2)&#178; é igual a</string>
+    <string name="_35a">2x&#178; - 2x + 5</string>
+    <string name="_35b">(2x - 1)&#178; </string>
+    <string name="_35c">2x&#178; + 5</string>
+    <string name="_35d">(x - 1)&#178; </string>
+    <string name="_35e">2x&#178; + 6x + 5</string>
+
+    <string name="_36">A divisão do polinômio A(x) = x&#179; - 4x&#178; + 4x + 2 por B(x) = (x - 1)&#178; tem quociente e resto, respectivamente,</string>
+    <string name="_36a">x + 4 e x - 2</string>
+    <string name="_36b">x - 2 e - x + 4</string>
+    <string name="_36c">x - 2 e x + 4</string>
+    <string name="_36d">- x + 4 e x - 2</string>
+    <string name="_36e">x - 6 e - 9x + 2</string>
+
+    <string name="_37">O conjunto solução da equação x&#178; - (7/2)x = - (3/2) é</string>
+    <string name="_37a">{}</string>
+    <string name="_37b">{1,6}</string>
+    <string name="_37c">{(1/2),3}</string>
+    <string name="_37d">{-3, -(1/2)}</string>
+    <string name="_37e">{-6,-1}</string>
+
+    <string name="_38">Assinale com "f" as alternativas falsas.\nI. (...) 4&#178; = 8\nII. (...) -5&#178; = 25\nIII. (...) Se x&#178; = 36, então x = - 6 ou x = 6\nIV. (...) (2/&#8730;2) + (3/&#8730;3) = &#8730;5\nSendo assim, é verdade que você</string>
+    <string name="_38a">marcou F em quatro afirmativas.</string>
+    <string name="_38b">marcou F em três afirmativas.</string>
+    <string name="_38c">marcou F em duas afirmativas.</string>
+    <string name="_38d">marcou F em um afirmativas.</string>
+    <string name="_38e">não marcou nenhum F.</string>
+
+    <string name="_39">Os lados de um triângulo medem, em metros, 2x, 2x + 1 e x + 1. A área e o perímetro desse triângulo são, respectivamente,</string>
+    <string name="_39a">12m&#178; e 12m</string>
+    <string name="_39b">12m e 6m&#178;</string>
+    <string name="_39c">6m&#178; e 12m</string>
+    <string name="_39d">10m&#178; e 12m</string>
+    <string name="_39e">6m&#178; e 6m</string>
+
+    <string name="_40">Sabe-se que os catetos de um triângulo retângulo medem 5dm e 12dm. É falso afirmar que</string>
+    <string name="_40a">o maior ângulo agudo desse triângulo é o ângulo oposto ao cateto de 12dm.</string>
+    <string name="_40b">o menor ângulo agudo desse triângulo é o ângulo oposto ao cateto de 5dm.</string>
+    <string name="_40c">a hipotenusa desse triângulo mede 130cm.</string>
+    <string name="_40d">o seno do maior ângulo agudo desse triângulo vale 5/13.</string>
+    <string name="_40e">o cosseno do maior ângulo agudo desse triângulo vale 5/3.</string>
+    <!-- ================================================================================================================================== -->
+    <string name="_2014_1">Com base no texto 1, pode-se afirmar como correto que o texto</string>
+    <string name="_2014_1a">aborda uma questão que acontece comumente nos grandes centros rurais, que é a invasão da propriedade pública.</string>
+    <string name="_2014_1b">relata, com muita precisão, a eficiência da polícia em resolver problemas relacionados à violência urbana.</string>
+    <string name="_2014_1c">apresenta, de forma irônica, um fato contraditório que é a falta de polícia para prender bandidos e o excesso de policiais para prender um cidadão por ele supostamente ter matado um ladrão.</string>
+    <string name="_2014_1d">narra um fato comum nos dias de hoje, que é as pessoas fazerem justiça com as próprias mãos, como fez a personagem principal.</string>
+    <string name="_2014_1e">discute, com muita certeza, a relação entre autoridade policial, cidadãos, bandidos e direitos humanos.</string>
+
+    <string name="_2014_2">Com relação ao gênero textual, podemos afirmar que o texto 1</string>
+    <string name="_2014_2a">é um conto, porque tem como intenção comunicativa informar um fato verídico que aconteceu na cidade do Rio de Janeiro.</string>
+    <string name="_2014_2b">é uma crônica, porque relata um fato do cotidiano.</string>
+    <string name="_2014_2c">é um romance, porque as ações têm locais bem definidos, como uma casa.</string>
+    <string name="_2014_2d">é uma reportagem jornalística, porque o público alvo são leitores de jornais.</string>
+    <string name="_2014_2e">é uma piada, porque tem como objetivo provocar riso no leitor através de metáforas.</string>
+
+    <string name="_2014_3">Ainda sobre o texto 1, assinale a alternativa correta.\nI – Há marcas da função referencial da linguagem quando relata fatos de modo objetivo.\nII - Há marcas da função fática da linguagem, principalmente quando a personagem fala com a central de polícia.\nIII - A função da linguagem predominante é a apelativa, porque a intenção do texto é o convencer os policias a virem atender um pedido.</string>
+    <string name="_2014_3a">As alternativas I e II estão corretas.</string>
+    <string name="_2014_3b">As alternativas I e III estão corretas.</string>
+    <string name="_2014_3c">Todas as alternativas estão corretas</string>
+    <string name="_2014_3d">Todas as alternativas estão erradas.</string>
+    <string name="_2014_3e">Apenas a alternativa III esta errada.</string>
+
+    <string name="_2014_4">Assinale a alternativa que melhor define a palavra em destaque.</string>
+    <string name="_2014_4a">“Sorrateiramente” (L. 3) é um advérbio de modo e modifica a ação verbal “andando”.</string>
+    <string name="_2014_4b">“Espiando” (L. 11) é uma palavra homônima homógrafa cujo par é “expiando”.</string>
+    <string name="_2014_4c">“Flagrante” (L. 33) é uma palavra homônima homófona cujo par é “fragrante”.</string>
+    <string name="_2014_4d">“Esclareci” (L. 16) é um verbo no pretérito imperfeito e está na primeira pessoa do plural.</string>
+    <string name="_2014_4e">“Disponível” (L. 41) é um adjetivo e se refere à personagem principal da história.</string>
+
+    <string name="_2014_5">Leia as afirmativas abaixo e, em seguida, assinale a alternativa correta.\nI. “O tiro fez um estrago danado no cara.” (L. 25-26). A oração apresenta marcas da linguagem popular, por conta do uso da expressão “fez um estrago danado”.\nII. "No meio do tumulto, um tenente se aproximou de mim e disse" (L. 36-38). Nessa oração o uso do pronome oblíquo não está de acordo com as normas gramaticais, pois se pede que depois de uma preposição seja usada a forma “me” e não “mim”.\nIII. "Perguntaram-me se o ladrão estava armado" (L. 14-15). Nessa oração, o uso do pronome oblíquo “me” está correto, de acordo com a gramática normativa.</string>
+    <string name="_2014_5a">As alternativas I e II estão corretas.</string>
+    <string name="_2014_5b">As alternativas I e III estão corretas.</string>
+    <string name="_2014_5c">Todas as alternativas estão corretas</string>
+    <string name="_2014_5d">Todas as alternativas estão erradas.</string>
+    <string name="_2014_5e">Apenas a alternativa III esta errada.</string>
+
+    <string name="_2014_6">Com base no texto, podemos afirmar como correto:</string>
+    <string name="_2014_6a">O texto questiona leis que são vistas como necessárias para o desenvolvimento do país.</string>
+    <string name="_2014_6b">O texto discute a proibição do uso de armas brancas e de fogo por crianças e adolescentes.</string>
+    <string name="_2014_6c">O texto questiona certas leis que, na posição do autor, não passam de grandes tolices.</string>
+    <string name="_2014_6d">O texto mostra como diversas leis aprovadas pelo congresso são eficazes na construção de um país justo e sem violência.</string>
+    <string name="_2014_6e">O texto relata fatos que comprovam a necessidade de aprovação de leis que sejam mais severas e mais eficazes.”</string>
+
+    <string name="_2014_7">Ainda com base no texto, assinale a alternativa correta.</string>
+    <string name="_2014_7a">A função predominante no texto é a conativa, porque tenta convencer o leitor que determinadas leis não são importantes para um país.</string>
+    <string name="_2014_7b">A função predominante é a referencial, porque discute o fato, em pauta, de uma forma clara, objetiva.</string>
+    <string name="_2014_7c">A função predominante é a fática, porque tenta dialogar com o leitor como comprova o seguinte fragmento: "Vá entender a lógica".</string>
+    <string name="_2014_7d">A função predominante é a metalinguística, porque visa modificar a opinião do leitor em relação ao uso de armas de brinquedos por crianças.</string>
+    <string name="_2014_7e">A função predominante é a expressiva, porque o autor expõe sua opinião e porque transmite a subjetividade da mensagem.</string>
+
+    <string name="_2014_8">Assinale V ou F e a seguir marque a alternativa correta.\nI. (...) O título do texto remete, de certa forma, a uma personagem bem conhecida das histórias em quadrinhos.\nII. (...) No início do texto, a ideia central é fazer uma crítica à aprovação de diversas leis que são vistas, pelo autor, como desnecessárias.\nIII. (...) No final do texto, há uma referência à personagem Mônica. Isso é evidenciado pelo uso da palavra "menina".\nIV. (...) Segundo o texto, tanto o ex-presidente quanto o atual governador de Brasília aprovaram leis que contribuíram para a redução da violência em âmbito nacional e estadual.\nA sequência correta é:</string>
+    <string name="_2014_8a">F, V, V, V</string>
+    <string name="_2014_8b">V, V, V, V</string>
+    <string name="_2014_8c">V, F, V, F</string>
+    <string name="_2014_8d">V, V, F, F</string>
+    <string name="_2014_8e">V, V, V, F</string>
+
+    <string name="_2014_9">Qual das alternativas a seguir está errada?</string>
+    <string name="_2014_9a">As palavras "absurdas" (L. 2), "inúteis" (L. 2) e "idiotas" (L. 3) estão com a função de adjetivo e se referem à palavra “leis” (L. 2).</string>
+    <string name="_2014_9b">No fragmento seguinte: "Nem mesmo o acadêmico Fernando Henrique Cardoso escapou de colocar sua assinatura em grandes bobagens" (L. 11-14), poderia haver uma vírgula entre os termos “Fernando Henrique Cardoso” e “escapou”.</string>
+    <string name="_2014_9c">As palavras “autorização” (L. 21), “proibição” (L. 35), “comercialização” (L. 48) e “justificativa” (L. 34) exercem no texto a função de substantivo.</string>
+    <string name="_2014_9d">O uso das aspas nas linhas 39-40 se justifica, porque o autor está transcrevendo a fala de alguém.</string>
+    <string name="_2014_9e">As expressões "até aí, tudo bem" (L. 21-22) e "vá entender a lógica" (L. 25-26), são exemplos de uma posição do autor em relação aos fatos expostos.</string>
+
+    <string name="_2014_10">Dadas as sentenças:\nI - "Simplesmente proibiu a comercialização de armas de brinquedo, mesmo as que disparam espumas ou luzes de laser". (L. 30-33)\nII - "Afinal, faz 50 anos que a menina resolve todas as suas pendengas com o Cebolinha e o Cascão na base da coelhada". (L. 52-55)\nIII - "No início da semana, o Distrito Federal aprovou mais uma lei que merece entrar para os anais do folclore legal brasileiro". (L. 26-29)\nCom base nas sentenças I, II e III, assinale a alternativa correta.</string>
+    <string name="_2014_10a">No item II, o verbo “fazer” poderia estar no plural, pois concorda com a palavra “cinquenta”.</string>
+    <string name="_2014_10b">No item III, a palavra “brasileiro” poderia vir no plural, porque concorda com a palavra “anais”.</string>
+    <string name="_2014_10c">No item I, a expressão “de brinquedo” poderia vir no plural, porque concorda com a palavra “armas”.</string>
+    <string name="_2014_10d">Ainda no item I, a expressão “de laser” deveria vir no plural, porque concorda com a palavra “luzes”.</string>
+    <string name="_2014_10e">No item I, justifica-se o uso do verbo no plural “disparam”, porque ele concorda com a palavra “armas”.</string>
+
+    <string name="_2014_11">Marque a alternativa incorreta, de acordo com o texto 3:</string>
+    <string name="_2014_11a">Para a ciência, não há um consenso em relação ao fato de que os videogames sejam responsáveis pelo aumento da violência infantil.</string>
+    <string name="_2014_11b">Estudos sobre a relação entre os videogames e o aumento da violência infantil indicam que há diferentes pontos de vista sobre o assunto.</string>
+    <string name="_2014_11c">De acordo com pesquisa feita, a maioria dos pais americanos acredita que conteúdos violentos de jogos, filmes e TV são culpados pela manutenção da violência infantil.</string>
+    <string name="_2014_11d">Medidas mais severas deveriam ser tomadas para manter as crianças afastadas de conteúdos violentos, acreditam os pais consultados.</string>
+    <string name="_2014_11e">Para James Steyer, o responsável sobre a pesquisa feita com os pais americanos, não há dúvidas de que os videogames deixam as crianças mais agressivas.</string>
+
+    <string name="_2014_12">Assinale a alternativa cujos termos completam o período corretamente:\n“Pais americanos têm _____ preocupações com os níveis atuais de crime do que com o acesso a armas, _____ se preocupam muito _____ com o bullying. Os resultados de uma pesquisa comprovam que _____ de setenta por cento deles ____________ com a influência de videogames, de filmes e da televisão na violência infantil.”</string>
+    <string name="_2014_12a">mais – mas – mais – mais – estão preocupados</string>
+    <string name="_2014_12b">mais – mais – mas – mais – está preocupado</string>
+    <string name="_2014_12c">mas – mais – mais – mais – está preocupada</string>
+    <string name="_2014_12d">mais – mais – mais – mas – estão preocupados</string>
+    <string name="_2014_12e">mas – mas – mais – mais – está preocupada</string>
+
+    <string name="_2014_13">Marque a alternativa em que há palavras proparoxítonas.</string>
+    <string name="_2014_13a">questão – classificação – preocupações</string>
+    <string name="_2014_13b">anúncios – níveis – mídia</string>
+    <string name="_2014_13c">dúvida – polêmica – conteúdos</string>
+    <string name="_2014_13d">audiência – violência – ciência</string>
+    <string name="_2014_13e">insensíveis – responsável – também</string>
+
+    <string name="_2014_14">As palavras em destaque estão com função de substantivos ou adjetivos, exceto na alternativa</string>
+    <string name="_2014_14a">Por enquanto, a ciência não tem uma <b>resposta definitiva</b> sobre o tema. (L. 4-6)</string>
+    <string name="_2014_14b"><b>Estudos recentes apontam</b> que eles não podem ser culpados pela violência infantil (L. 6-8)</string>
+    <string name="_2014_14c">Já outros afirmam que eles alteram a <b>atividade cerebral</b> e deixam as pessoas mais insensíveis (L. 8-11)</string>
+    <string name="_2014_14d">88&#37; acreditam que anúncios violentos não deveriam ser veiculados durante programas com <b>grande audiência infantil</b> (L. 20-24).</string>
+    <string name="_2014_14e">James Steyer, criador e CEO da <b>empresa responsável</b> pela pesquisa (L. 29-31)</string>
+
+    <string name="_2014_15">Assinale a alternativa em que o termo em destaque expressa ideia de tempo.</string>
+    <string name="_2014_15a"><b>Afinal</b>, a polêmica existe há muito tempo. (L. 3-4)</string>
+    <string name="_2014_15b"><b>Por enquanto</b>, a ciência não tem uma resposta definitiva sobre o tema. (L. 4-6)</string>
+    <string name="_2014_15c"><b>Já</b> outros afirmam que eles alteram a atividade cerebral e deixam as pessoas mais insensíveis. (L. 8-11)</string>
+    <string name="_2014_15d">Mas, <b>segundo</b> uma pesquisa realizada pela Common Sense Media e divulgada nesta semana. (L. 12-14)</string>
+    <string name="_2014_15e"><b>Além</b> dos jogos de videogame, outras preocupações dos pais são o <i>bullying</i>. (L. 31-34)</string>
+
+    <string name="_2014_16">Dadas as afirmativas abaixo, sobre o texto 4, marque a alternativa correta.\nI. O texto é um exemplo de uma carta do leitor, que apresenta sua opinião sobre reportagem veiculada por determinado meio de comunicação.\nII. O texto é uma carta de reclamação de um leitor que é assinante de um jornal que veicula assuntos considerados impróprios para crianças.\nIII. O texto é uma carta aos editores de um jornal eletrônico especializado em veículos midiáticos, como a televisão.</string>
+    <string name="_2014_16a">Somente a alternativa I é verdadeira.</string>
+    <string name="_2014_16b">Somente a alternativa II é verdadeira.</string>
+    <string name="_2014_16c">Somente a alternativa III é verdadeira.</string>
+    <string name="_2014_16d">As alternativas II e III são verdadeiras.</string>
+    <string name="_2014_16e">Nenhuma das alternativas é verdadeira.</string>
+
+    <string name="_2014_17">Assinale a alternativa incorreta em relação ao texto 4.</string>
+    <string name="_2014_17a">A palavra “entretanto” (L. 8) pode ser substituída pela palavra “porém” sem prejuízo ao entendimento do texto.</string>
+    <string name="_2014_17b">O texto apresenta marcas da função fática, porque a autora busca um diálogo com outros leitores do jornal.</string>
+    <string name="_2014_17c">No final do texto, há a presença da linguagem formal, através do uso da palavra “Atenciosamente” (L. 31).</string>
+    <string name="_2014_17d">Para a autora, o problema da programação de TV voltada ao público infantil encontra-se, principalmente, com os filmes e desenhos animados que são exibidos durante os períodos vespertino e noturno.</string>
+    <string name="_2014_17e">Há uma preocupação da autora em não se mostrar repressora e autoritária em relação à liberdade de expressão da mídia.</string>
+
+    <string name="_2014_18">Com relação aos quatro textos apresentados anteriormente, pode-se afirmar como correto:</string>
+    <string name="_2014_18a">Todos tratam de problemas sociais, econômicos e pedagógicos.</string>
+    <string name="_2014_18b">É possível ver uma relação entre os textos 1 e 4, porque eles apresentam problemas relacionados à violência urbana.</string>
+    <string name="_2014_18c">Pelo fato de todos os textos abordarem temáticas diferentes, não é possível fazer qualquer relação entre eles.</string>
+    <string name="_2014_18d">Há uma aproximação entre os textos 3 e 4 pelo fato de eles abordarem a preocupação dos pais em relação aos filhos ficarem expostos a conteúdos violentos.</string>
+    <string name="_2014_18e">Os textos 1, 2 e 4 se aproximam pelo fato de eles tratarem de assuntos voltados especificamente para o publico juvenil.</string>
+
+    <string name="_2014_19">A partir das ponderações feitas pela Presidenta da República Dilma Roussef no texto acima, identifique a alternativa incorreta:</string>
+    <string name="_2014_19a">Saúde e Educação foram bandeiras de luta dos movimentos deflagrados em junho de 2013.</string>
+    <string name="_2014_19b">A Segurança Pública figurou como uma das denúncias que evidenciam a falência do Estado Brasileiro na condução da Nação.</string>
+    <string name="_2014_19c">Os movimentos de junho se caracterizaram pela heterogeneidade de atores e heterogeneidade de bandeiras de denúncia e luta.</string>
+    <string name="_2014_19d">A melhoria dos transportes públicos das grandes cidades brasileiras esteve entre as reivindicações presentes nas vozes das manifestações de junho.</string>
+    <string name="_2014_19e">A ineficiência da burocracia estatal foi a principal denúncia presente nas vozes ouvidas Brasil afora.</string>
+
+    <string name="_2014_20">Como resposta às manifestações que exigiam melhoria dos serviços públicos na área da Saúde, o governo brasileiro respondeu com o lançamento do programa MAIS MÉDICOS, que tem como principal objetivo levar médicos para regiões periféricas das grandes cidades e para o interior do Brasil. Este programa sofreu pesadas críticas da classe médica. A fúria dos médicos se dirigiu principalmente à vinda dos médicos cubanos para atuar no programa federal. O fato evidencia comportamentos que remontam ao nosso passado e podem ser descritos como:\nI - Uma reação de medo à implantação do comunismo no Brasil.\nII - Dúvidas quanto à qualidade da formação médica dos cubanos.\nIII - Resquícios de intolerância e discriminação racial.\nIV - Receio dos médicos de perda dos melhores postos de trabalho no país.\nV - Constrangimento gerado pela desobrigação de prestação do exame de revalidação do diploma.\nEstão corretas:</string>
+    <string name="_2014_20a">I, II e III;</string>
+    <string name="_2014_20b">II, III e V;</string>
+    <string name="_2014_20c">II, III e IV;</string>
+    <string name="_2014_20d">III, IV e V;</string>
+    <string name="_2014_20e">I, II, III, IV e V.</string>
+
+    <string name="_2014_21">“O conflito naquele país continua causando sofrimento humano e destruição imensuráveis. Dados compilados pelo Alto Comissariado das Nações Unidas para os Direitos Humanos (ACNUDH) indicam que 100 mil pessoas foram mortas desde março de 2011, quando começou o levante contra o presidente Bashar al-Assad. A estimativa é que 6,8 milhões de pessoas necessitem de assistência humanitária urgente – incluindo 3,1 milhões de crianças. Desse total, 4,25 milhões são deslocados internos. Até 9 de setembro, já havia mais de 2 milhões de refugiados nos países vizinhos e Norte da África. Cerca de 1,2 milhão de famílias tiveram suas casas atingidas de acordo com a Comissão Econômica e Social para a Ásia Ocidental (ESCWA). Cerca de 400 mil delas foram completamente destruídas, 300 mil parcialmente destruídas e 500 mil sofreram danos de infraestrutura.”\nTexto adaptado de www.onu.org.br\nO país citado na matéria acima é o(a)</string>
+    <string name="_2014_21a">Turquia.</string>
+    <string name="_2014_21b">Azerbaijão.</string>
+    <string name="_2014_21c">Tunísia.</string>
+    <string name="_2014_21d">Síria.</string>
+    <string name="_2014_21e">Iraque.</string>
+
+    <string name="_2014_22">No ano de 1990, já existiam mais de 10 milhões de pessoas infectadas pelo HIV naquele continente. Desde o início da epidemia de AIDS, nos anos 1980, até os dias atuais, esse número já ultrapassou o de 40 milhões de infectados. A AIDS é um dos problemas que tem dificultado os avanços sociais no continente, mantendo piora na esperança de vida e na configuração negativa do IDH (Índice de Desenvolvimento Humano) do continente, onde a mortalidade é muito alta. Na Zona meridional, entre os anos 1980 e 2000, foram registradas as mortes de mais de 11 milhões de pessoas vítimas do vírus da AIDS. Em 1997, na Zona mais pobre, cerca de 1,5 milhão de crianças ficaram órfãs devido à AIDS. Nos últimos anos, seus países perderam considerável camada da população profissionalmente ativa, comprometendo o desenvolvimento econômico e social do continente. Nos países onde a situação é mais grave, a taxa dessa perda varia entre 20 por cento, 25 por cento e 33 por cento. Nos demais países, essa média é de 5 por cento. Porém, no continente a AIDS atinge todas as classes sociais e profissionais, de professores a agricultores.\nTexto adaptado de:\nhttp://www.infoescola.com/doencas/aids-na-africa/\nO continente de que trata o texto é</string>
+    <string name="_2014_22a">América do Sul.</string>
+    <string name="_2014_22b">Ásia.</string>
+    <string name="_2014_22c">Oceania.</string>
+    <string name="_2014_22d">Europa.</string>
+    <string name="_2014_22e">África.</string>
+
+    <string name="_2014_23">Multiplicando 325 pelo número mn, m diferente de n, você encontra como resultado 5850. Marque a alternativa verdadeira.</string>
+    <string name="_2014_23a">“m” é maior que “n”.</string>
+    <string name="_2014_23b">(m + n) é igual a 9.</string>
+    <string name="_2014_23c">(n – m) é um número negativo.</string>
+    <string name="_2014_23d">o produto de “m” por “n” é igual a 18.</string>
+    <string name="_2014_23e">o número mn é 81.</string>
+
+    <string name="_2014_24">Sabendo que a soma de um número “x” com sua terça parte é igual a 36, marque a alternativa verdadeira.</string>
+    <string name="_2014_24a">x é par.</string>
+    <string name="_2014_24b">x é primo.</string>
+    <string name="_2014_24c">x é divisor de 9.</string>
+    <string name="_2014_24d">x é múltiplo de 3.</string>
+    <string name="_2014_24e">x é igual a 9.</string>
+
+    <string name="_2014_25">Ontem fui a uma casa de material de construção e comprei 2,25m de cano de 25mm, cujo metro custa R&#36; 2,00. Comprei também 5m de eletroduto, cujo metro custa R&#36; 0,82. Comprei ainda, 4,50m metros de fio flexível, cujo preço por metro é R&#36; 1,25. Assinale a alternativa que corresponde ao valor em reais que paguei.</string>
+    <string name="_2014_25a">13,60.</string>
+    <string name="_2014_25b">14,60.</string>
+    <string name="_2014_25c">13,50.</string>
+    <string name="_2014_25d">15,60.</string>
+    <string name="_2014_25e">14,06.</string>
+
+    <string name="_2014_26">O perímetro e a área de um retângulo de base “b” e altura “h”, com b &gt; h, são respectivamente, 600cm e 2m&#178;. Assinale a alternativa correta.</string>
+    <string name="_2014_26a">b = 20cm e h = 100cm.</string>
+    <string name="_2014_26b">b = 200cm e h = 100mm.</string>
+    <string name="_2014_26c">b = 20dm e h = 100cm.</string>
+    <string name="_2014_26d">b = 2m e h = 100dm.</string>
+    <string name="_2014_26e">b = 200mm e h = 100mm.</string>
+
+    <string name="_2014_27">Sabendo que “a” é a solução da equação (x/3) + (2/3) = (3x/2) - 11, assinale a alternativa certa.</string>
+    <string name="_2014_27a">“a” é um número menor que zero.</string>
+    <string name="_2014_27b">“a” é um número primo.</string>
+    <string name="_2014_27c">“a” é um número maior que 10.</string>
+    <string name="_2014_27d">“a” é um número entre 9 e 11.</string>
+    <string name="_2014_27e">“a” é uma fração própria.</string>
+
+    <string name="_2014_28">A diferença entre dois números m e n (m &gt; n) é igual a 14 e a razão entre eles é 12/5.\nAssinale a alternativa correta.</string>
+    <string name="_2014_28a">m = 12</string>
+    <string name="_2014_28b">n = 12.</string>
+    <string name="_2014_28c">m + n = 34</string>
+    <string name="_2014_28d">m + n = 17.</string>
+    <string name="_2014_28e">m é par e n é ímpar.</string>
+
+    <string name="_2014_29">Em um depósito existem “m” carros e “n” motos, totalizando 21 veículos e 62 pneus. Nestas condições, assinale a alternativa verdadeira.</string>
+    <string name="_2014_29a">m + n = 21.</string>
+    <string name="_2014_29b">m = 11.</string>
+    <string name="_2014_29c">n = 10.</string>
+    <string name="_2014_29d">m &gt; n.</string>
+    <string name="_2014_29e">m = 10.</string>
+
+    <string name="_2014_30">A turma de 1&#170; série da escola Maria do Rosário é composta por 25 por cento de meninas mais 30 meninos. Assinale a alternativa que corresponde a 50 por cento da quantidade de meninas.</string>
+    <string name="_2014_30a">10.</string>
+    <string name="_2014_30b">5.</string>
+    <string name="_2014_30c">15.</string>
+    <string name="_2014_30d">30.</string>
+    <string name="_2014_30e">40.</string>
+
+    <string name="_2014_31">A produção diária de bolas de futebol de uma fábrica que tem dez funcionários, os quais trabalham oito horas por dia é de 1000 bolas. Em certo dia, o dono da fábrica comunicou que era preciso produzir 1200 bolas. Justamente neste dia dois funcionários faltaram. Nestas condições, é verdade que neste dia</string>
+    <string name="_2014_31a">cada homem trabalhou quatro horas a mais.</string>
+    <string name="_2014_31b">cada homem trabalhou meia hora a mais.</string>
+    <string name="_2014_31c">cada homem trabalhou sete minutos a mais.</string>
+    <string name="_2014_31d">cada homem trabalhou meia hora a menos.</string>
+    <string name="_2014_31e">os homens não trabalharam.</string>
+
+    <string name="_2014_32">A soma das áreas de todos os triângulos que podemos formar na figura a seguir é igual a</string>
+    <string name="_2014_32a">3</string>
+    <string name="_2014_32b">4</string>
+    <string name="_2014_32c">7</string>
+    <string name="_2014_32d">8</string>
+    <string name="_2014_32e">10</string>
+
+    <string name="_2014_33">O valor de (0,25)&#185;&#8304;&#8304;&#8310; .2&#178;&#8304;&#185;&#179; é igual a:</string>
+    <string name="_2014_33a">2</string>
+    <string name="_2014_33b">4</string>
+    <string name="_2014_33c">2&#8308;&#8304;&#8304;&#8304;</string>
+    <string name="_2014_33d">4&#178;&#8304;&#8304;&#8304;</string>
+    <string name="_2014_33e">8&#185;&#8304;&#8304;&#8304;</string>
+
+    <!--    <string name="_34">Marque as afirmativas verdadeiras com o número 2, e as falsas com o número 1. \nI) Se três homens fabricam 20 peças, trabalhando 8 horas por dia, 6 homens fabricarão 40 peças idênticas às primeiras, no mesmo espaço de tempo. \nII) 0,5% de 60 é 3.\nIII) 0,25% de 200 é 0,5. \nO número formado de cima para baixo é</string>-->
+    <string name="_2014_34">Quando um camelo está sedento, 84 porcento do seu peso é água. Depois de beber toda a água que necessita, seu peso chega a 800 kg, onde 85 porcento desse peso correspondem a água. Quanto pesa esse camelo quando está sedento?</string>
+    <string name="_2014_34a">672 kg</string>
+    <string name="_2014_34b">680 kg</string>
+    <string name="_2014_34c">715 kg</string>
+    <string name="_2014_34d">720 kg</string>
+    <string name="_2014_34e">750 kg</string>
+
+    <string name="_2014_35">Em um triângulo retângulo, a hipotenusa é a+3 e um dos catetos a-3. Se o outro cateto vale 18, quanto vale a?</string>
+    <string name="_2014_35a">20</string>
+    <string name="_2014_35b">22</string>
+    <string name="_2014_35c">24</string>
+    <string name="_2014_35d">27</string>
+    <string name="_2014_35e">30</string>
+
+    <string name="_2014_36">Qual dos seguintes números NÃO está entre 5 e 6?</string>
+    <string name="_2014_36a">2&#960; -1</string>
+    <string name="_2014_36b">&#8730;19 + 1</string>
+    <string name="_2014_36c">&#8730;27</string>
+    <string name="_2014_36d">&#8730;82 - 3</string>
+    <string name="_2014_36e">&#179;&#8730;200</string>
+
+    <string name="_2014_37">A soma [1/(1.2)]+[1/(2.3)]+[1/(3.4)]+ ... +[1/(8.9)]+[1/(9.10)] é igual a</string>
+    <string name="_2014_37a">1/2</string>
+    <string name="_2014_37b">9/10</string>
+    <string name="_2014_37c">7/8</string>
+    <string name="_2014_37d">3/4</string>
+    <string name="_2014_37e">1</string>
+
+    <string name="_2014_38">Se [a/(4 - a)] = [b/(5 - b) = [c/(7 - c)] = 3, o valor de a + b + c é igual a</string>
+    <string name="_2014_38a">12</string>
+    <string name="_2014_38b">3</string>
+    <string name="_2014_38c">9</string>
+    <string name="_2014_38d">6</string>
+    <string name="_2014_38e">14</string>
+
+    <string name="_2014_39">O triângulo ABC é isósceles, com AB = BC e o ângulo B vale 20&#176;. Os triângulos ADC e DEC são também isósceles, com AD = AC e ED = DC. O ângulo DEC mede:</string>
+    <string name="_2014_39a">18&#176;</string>
+    <string name="_2014_39b">34&#176;</string>
+    <string name="_2014_39c">48&#176;</string>
+    <string name="_2014_39d">50&#176;</string>
+    <string name="_2014_39e">73&#176;</string>
+
+    <string name="_2014_40">Dois quadrados estão apoiados. O lado do quadrado maior mede 2 e o lado do menor 1. Quanto mede MN?</string>
+    <string name="_2014_40a">1/2</string>
+    <string name="_2014_40b">1/3</string>
+    <string name="_2014_40c">1/4</string>
+    <string name="_2014_40d">2/3</string>
+    <string name="_2014_40e">2/5</string>
+
+    <!-- ================================================================================================================================== -->
+    <string name="_2015_1">A expressão em destaque neste trecho do terceiro parágrafo: “<b>Além disso</b> tenho sorte, porque os amigos que tenho têm muitos amigos e os dividem comigo.” poderia ser substituída SEM PERDA de sentido pelo conector:</string>
+    <string name="_2015_1a">consequentemente.</string>
+    <string name="_2015_1b">ademais.</string>
+    <string name="_2015_1c">assim.</string>
+    <string name="_2015_1d">portanto.</string>
+    <string name="_2015_1e">porém.</string>
+
+    <string name="_2015_2">No parágrafo: “Pelo contrário, quanto mais dividida, mais ela aumenta. <b>E</b> há mais vantagens na amizade: é uma das poucas coisas que não custam nada <b>e</b> valem muito, embora não sejam vendáveis.”, a conjunção <b>e</b>, aí utilizada duas vezes, dá ideia, respectivamente, de</string>
+    <string name="_2015_2a">alternância e adição.</string>
+    <string name="_2015_2b">adição e explicação.</string>
+    <string name="_2015_2c">adição e consequência.</string>
+    <string name="_2015_2d">adição e adversidade.</string>
+    <string name="_2015_2e">explicação e conclusão.</string>
+
+    <string name="_2015_3">De acordo com a crônica lida, podemos afirmar que o autor trata sobre</string>
+    <string name="_2015_3a">as amizades que fizeram parte de sua infância e que, há tempo, não contam mais.</string>
+    <string name="_2015_3b">as inimizades que foram criadas a partir da conquista de novas amizades.</string>
+    <string name="_2015_3c">as amizades antigas que se renovaram e, por isso, perderam suas características iniciais.</string>
+    <string name="_2015_3d">os diversos tipos de amizade, a sua importância e os cuidados necessários para a sua continuidade.</string>
+    <string name="_2015_3e">a amizade como um sentimento momentâneo, que é estabelecido em cada fase da vida.</string>
+
+    <string name="_2015_4">O texto <i>O padeiro</i>, de Rubem Braga, é uma crônica mundana, de teor filosófico. Podemos observar que os trechos presentes nessa narrativa, em sua maioria, dispõem de sequências textuais com verbos no presente do indicativo. A intenção do autor ao elaborar sua escrita dessa forma é</string>
+    <string name="_2015_4a">fornecer ao leitor características típicas desse tipo de narrativa.</string>
+    <string name="_2015_4b">possibilitar ao leitor um maior envolvimento com os fatos narrados.</string>
+    <string name="_2015_4c">confrontar o desenrolar dos fatos com os acontecimentos passados.</string>
+    <string name="_2015_4d">marcar a diferença entre as vozes das personagens.</string>
+    <string name="_2015_4e">diferenciar as personagens pelas suas posições sociais.</string>
+
+    <string name="_2015_5">A expressão interjetiva, presente neste trecho do último parágrafo: <i>“Ah, eu era rapaz, eu era rapaz naquele tempo! E às vezes me julgava importante porque no jornal que levava para casa, além de reportagens ou notas que eu escrevera sem assinar, ia uma crônica ou artigo com o meu nome.”</i>, demonstra o sentimento do narrador em relação à sua</string>
+    <string name="_2015_5a">avareza.</string>
+    <string name="_2015_5b">imaturidade.</string>
+    <string name="_2015_5c">inteligência.</string>
+    <string name="_2015_5d">elegância.</string>
+    <string name="_2015_5e">humildade.</string>
+
+    <string name="_2015_6">A coerência, como fator importante de significação e de compreensão textual da charge <i>VOTE EM BRANCO!</i>, está presente em razão de</string>
+    <string name="_2015_6a">proporcionar o confronto entre propostas de candidatos diversos e as do candidato Branco.</string>
+    <string name="_2015_6b">tratar a importância do voto por um candidato sincero.</string>
+    <string name="_2015_6c">dispor exemplos das reivindicações de grande maioria da população brasileira.</string>
+    <string name="_2015_6d">demonstrar, expressamente, as consequências do voto em branco.</string>
+    <string name="_2015_6e">estabelecer um trocadilho irônico entre o contexto político atual e o candidato Branco.</string>
+
+    <string name="_2015_7">A construção sintática: <i>“Eu prometo a você...”</i> (balão 2 da charge), considerando as pessoas do discurso aí presentes, continuará em acordo com a norma padrão se for redigida de que forma?</string>
+    <string name="_2015_7a">Eu lhe prometo...</string>
+    <string name="_2015_7b">Eu te prometo...</string>
+    <string name="_2015_7c">Eu a você prometo...</string>
+    <string name="_2015_7d">Eu a prometo....</string>
+    <string name="_2015_7e">Eu o prometo...</string>
+
+    <string name="_2015_8">A carta do leitor é frequentemente publicada em jornais, revistas e sites variados. Ela traz pontos de vista dos leitores, com base na matéria veiculada anteriormente em algum desses canais. Nesse sentido, o propósito principal desse gênero textual é</string>
+    <string name="_2015_8a">opinar.</string>
+    <string name="_2015_8b">descrever.</string>
+    <string name="_2015_8c">explicar.</string>
+    <string name="_2015_8d">aconselhar.</string>
+    <string name="_2015_8e">narrar.</string>
+
+    <string name="_2015_9">No último período da Carta do leitor: <i>“Mesmo roubada, traída e judiada, posso rezar e, às vezes, é isso o que me conforta.”</i>, podemos identificar como função da linguagem predominante a</string>
+    <string name="_2015_9a">função referencial.</string>
+    <string name="_2015_9b">função fática.</string>
+    <string name="_2015_9c">função emotiva.</string>
+    <string name="_2015_9d">função metalinguística.</string>
+    <string name="_2015_9e">função poética.</string>
+
+    <string name="_2015_10">Assinale a alternativa cuja classe gramatical da palavra destacada está correta.</string>
+    <string name="_2015_10a">Amanhã pode acontecer <b><u>tudo</u></b> (substantivo) / Inclusive nada.</string>
+    <string name="_2015_10b">A lagarta rasteja / Até o dia em <b><u>que</u></b> (preposição) cria asas.</string>
+    <string name="_2015_10c">Que a burrinha da felicidade / <b><u>Nunca</u></b> (advérbio) se atrasa.</string>
+    <string name="_2015_10d"><b><i>Toda</i></b> (adjetivo) caminhada começa / No primeiro passo.</string>
+    <string name="_2015_10e">Pra ir mais <b><u>alto</u></b> (adjetivo) / Vai ter que suar.</string>
+
+    <string name="_2015_11">O burro é resultante do cruzamento entre o asno e o cavalo e apresenta "características de ambas as raças: robustez, capacidade de adaptação a caminhos acidentados e a meio ambiente adverso, docilidade; pernas mais longas e, portanto, maior velocidade, maior facilidade de treino." (http://pt.wikipedia.org/wiki/Equus_africanus_asinus). Tomando-se como base essa informação, verifica-se que a palavra "burrinha", em: <i>"Que a burrinha da felicidade / Nunca se atrasa"</i>, tem sentido figurado, inferindo que</string>
+    <string name="_2015_11a">apesar das adversidades da vida, a felicidade chega em tempo hábil.</string>
+    <string name="_2015_11b">a felicidade tarda, mas não falha.</string>
+    <string name="_2015_11c">as dificuldades retardam a chegada da felicidade à vida das pessoas.</string>
+    <string name="_2015_11d">a felicidade é algo incerto na vida.</string>
+    <string name="_2015_11e">a felicidade é irresistente aos obstáculos da vida.</string>
+
+    <string name="_2015_12">Considerando apenas o sentido denotativo da palavra, assinale a alternativa que não apresenta um sinônimo para a palavra "inexoravelmente", em: <i>"A natureza não tem pressa / Segue seu compasso / Inexoravelmente chega lá..."</i>:</string>
+    <string name="_2015_12a">implacavelmente</string>
+    <string name="_2015_12b">compassivamente</string>
+    <string name="_2015_12c">firmemente</string>
+    <string name="_2015_12d">rigorosamente</string>
+    <string name="_2015_12e">severamente</string>
+
+    <string name="_2015_13">Quanto à tonicidade, apenas uma das palavras destacadas nos versos abaixo não é oxítona. Qual?</string>
+    <string name="_2015_13a">Amanhã pode <b><u>acontecer</u></b> tudo</string>
+    <string name="_2015_13b"><b><u>Até</u></b> o dia em que cria asas</string>
+    <string name="_2015_13c"><b><u>Amanhã</u></b> ela para</string>
+    <string name="_2015_13d">Inexoravelmente chega <b><u>lá</u></b>...</string>
+    <string name="_2015_13e">Vai ter que <b><u>suar</u></b></string>
+
+    <string name="_2015_14">Com base no texto, assinale a única alternativa que não está de acordo com as informações nele contidas. O cronista</string>
+    <string name="_2015_14a">dá a entender que, quando uma pessoa está triste, é comum afogar as mágoas na bebida ou buscar apoio em um ombro amigo.</string>
+    <string name="_2015_14b">encontra a liberdade no anonimato, que somente tornando-o mais um no meio da multidão.</string>
+    <string name="_2015_14c">consola-se com a ideia de que o verso de um soneto de Alfonsina Storni é dirigido a ele.</string>
+    <string name="_2015_14d">não sente inveja dos amigos felizes, porque, no fundo, a felicidade não é mais o seu objetivo de vida.</string>
+    <string name="_2015_14e">sugere que foi feliz em sua vida e que viveu esse momento intensamente; agora, entretanto, tem-se precavido contra a infelicidade apenas.</string>
+
+    <string name="_2015_15">Marque a alternativa em cujo trecho o escritor Rubem Braga não comete deslize algum quanto ao emprego da pontuação.</string>
+    <string name="_2015_15a">Uma tarde em Buenos Aires eu estava meio triste – mas não bebi, não telefonei, não procurei nenhuma pessoa amiga.</string>
+    <string name="_2015_15b">Fechado no meu capote e no meu silêncio pus-me a andar pela rua cheia de gente.</string>
+    <string name="_2015_15c">As grandes luzes só se acendem às dez da noite e, desde muito cedo, no inverno, é escuro.</string>
+    <string name="_2015_15d">E por ser impessoal e não ter pressa e não ter pressa nem rumo, por ter um capote e sapatos grossos e por andar entre meus desconhecidos irmãos, eu me senti mais livre.</string>
+    <string name="_2015_15e">[...] e, vendo em vossos olhos a felicidade, eu descobri que em verdade já não a procuro mais.</string>
+
+    <string name="_2015_16">Identifique a alternativa cuja justificativa para a acentuação gráfica está incorreta.</string>
+    <string name="_2015_16a"><i>Silêncio, murmúrio e notícias</i> - acentuam-se as palavras paroxítonas terminadas em ditongo.</string>
+    <string name="_2015_16b"><i>Distraído</i> - acentuam-se o i e o u tônicos dos hiatos.</string>
+    <string name="_2015_16c"><i>Alguém e também</i> - acentuam-se as oxítonas terminadas em em e ens.</string>
+    <string name="_2015_16d"><i>Só, café e já</i> - acentuam-se as palavras oxítonas terminadas em a, e e o.</string>
+    <string name="_2015_16e"><i>Árvore</i> - toda proparoxítona é acentuada.</string>
+
+    <string name="_2015_17">Segundo Amélia Hamze, no artigo Internetês (http://educador.brasilescola.com/trabalhodocente/internetes.htm), os educadores, ao se comunicarem pela internet, devem harmonizar a metodologia da construção da conversação dentro de um contexto da norma culta. Assinale a análise inadequada quanto aos aspectos linguísticos desse texto que, apesar de escrito por um professor, apresenta um descaso em relação às normas gramaticais da Língua Portuguesa.</string>
+    <string name="_2015_17a">Em: <i>"A única bolsa que não pode cair é a bolsa família, que favorecem a população miserável deste país"</i>, o verbo favorecer não infringe a regra de concordância verbal, uma vez que o sujeito "bolsa família" é composto.</string>
+    <string name="_2015_17b">Em: <i>"[...] mas, a bolsa de valores que favorecerem aos bancos [...]"</i>, a vírgula está empregada erradamente, pois a conjunção mas inicia uma oração coordenada.</string>
+    <string name="_2015_17c">Ainda em: <i>"[...] mas, a bolsa de valores que favorecerem aos bancos [...]"</i>, há um erro de concordância verbal, pois o verbo favorecer deve ficar no singular, concordando com o núcleo do sujeito "a bolsa de valores".</string>
+    <string name="_2015_17d">Em: <i>"[...] pode cai a vontade."</i>, cai deve ficar no infinitivo, pois constitui a locução verbal "pode cair", cujo sujeito é "a bolsa de valores".</string>
+    <string name="_2015_17e">No último período, as inúmeras infrações às normas gramaticais provocam uma incoerência textual, que se desfaz, se o trecho for redigido desta forma: <i>"Ou seja, quando a bolsa de valores cai, os bancos perdem. É simples assim!"</i>.</string>
+
+    <string name="_2015_18">Quanto à intencionalidade da linguagem nesse texto do professor A.M., é correto afirmar que ele</string>
+    <string name="_2015_18a">transmite uma informação objetiva sobre a realidade.</string>
+    <string name="_2015_18b">quer influenciar o leitor, convencendo-o de que não há importância se a bolsa de valores cair.</string>
+    <string name="_2015_18c">põe em evidência a forma da mensagem, ou seja, preocupa-se mais em como dizê-la do que com o que dizer nela.</string>
+    <string name="_2015_18d">dá um destaque para o lúdico, ampliando o sentido das suas palavras através do jogo de sua estrutura, de sua tonalidade, de seu ritmo e de sua sonoridade.</string>
+    <string name="_2015_18e">expõe uma opinião própria, que reflete o seu estado de ânimo, os seus sentimentos e emoções quanto à importância da bolsa família e da bolsa de valores.</string>
+
+    <string name="_2015_19">O texto acima afirma que as políticas econômicas que permitiram o aumento da renda da população mais pobre brasileira serviu de estímulo positivo à economia do país. Com base nas informações do texto e também no seu conhecimento sobre a realidade atual brasileira, marque a opção que não corresponde a uma política social de melhoria da qualidade de vida da população brasileira pertencente à Classe C.</string>
+    <string name="_2015_19a">O Programa Mulheres Mil é um programa de formação profissional que tem como objetivo diminuir as desigualdades entre os sexos e promover a autonomia feminina.</string>
+    <string name="_2015_19b">O Programa Ciência sem Fronteiras foi criado pelo governo federal com o objetivo de melhorar a qualidade da produção científica dos estudantes brasileiros.</string>
+    <string name="_2015_19c">O PRONATEC é um programa de qualificação profissional que tem como objetivo formar profissionais para o mercado de trabalho e diminuir os índices de desemprego.</string>
+    <string name="_2015_19d">O Programa Mais Médicos tem como objetivo principal levar assistência médica básica a populações de regiões periféricas e de difícil acesso.</string>
+    <string name="_2015_19e">As políticas de cotas nas universidades federais foram criadas para inserir jovens de escolas públicas antes excluídos do ensino superior público.</string>
+
+    <string name="_2015_20">Sabemos que a violência urbana no Brasil está diretamente relacionada aos perversos índices de desigualdade social que ainda dominam o país, apesar da diminuição da miséria nos últimos anos. Selecione a alternativa que não corresponde diretamente à intervenção estatal na tentativa de diminuição da violência urbana no Brasil atual.</string>
+    <string name="_2015_20a">A melhoria da qualificação das polícias, a partir dos pressupostos dos Direitos Humanos.</string>
+    <string name="_2015_20b">A implantação das Unidades de Polícia Pacificadora, que têm como função o combate ao tráfico de drogas nas favelas cariocas.</string>
+    <string name="_2015_20c">O programa Juventude Viva, que foi criado pelo Estado brasileiro com o intuito de diminuir a morte de jovens vítimas de homicídio.</string>
+    <string name="_2015_20d">O estabelecimento da Lei Seca, que visa a impedir que motoristas alcoolizados trafeguem nas rodovias brasileiras.</string>
+    <string name="_2015_20e">O aumento salarial das polícias e o combate à corrupção dentro das corporações.</string>
+
+    <string name="_2015_21">A charge abaixo reflete as críticas que foram direcionadas a um dos Programas de Governo implantados no Brasil há poucos meses. Parte da imprensa classificou essas críticas como “xenofóbicas”. O Programa Governamental abordado na charge é o</string>
+    <string name="_2015_21a">"Minha Casa Minha Vida"</string>
+    <string name="_2015_21b">"Bolsa Família"</string>
+    <string name="_2015_21c">"Mais Médicos"</string>
+    <string name="_2015_21d">"Pronatec" (Programa Nacional de Acesso ao Ensino Técnico e Emprego)</string>
+    <string name="_2015_21e">"Brasil sem Miséria"</string>
+
+    <string name="_2015_22">A charge abaixo trata do tema “violência em Alagoas”. Sobre esse tema, assinale a alternativa incorreta.</string>
+    <string name="_2015_22a">Nos últimos meses, Alagoas chegou a se destaque na mídia nacional com vários municípios (Maceió, Arapiraca, Rio Largo, Pilar etc.) situando-se entre os mais violentos do mundo.</string>
+    <string name="_2015_22b">O Mapa da Violência 2013: Homicídios e Juventude no Brasil, revelou que em 2011 Maceió era a capital mais violenta do país, com 111,1 homicídios para cada 100 mil habitantes.</string>
+    <string name="_2015_22c">O Ministério da Saúde divulgou que no ano de 2012 a média nacional de assassinatos foi de 29 para cada 100 mil habitantes. Nesse mesmo ano, Alagoas ficou com 64,6 mortes para cada 100 mil habitantes, mais uma vez liderando o ranking nacional.</string>
+    <string name="_2015_22d">O Mapa da Violência 2013: Homicídios e Juventude no Brasil revelou que em 2011 Alagoas liderava o ranking da violência no Brasil com 72,2 homicídios para cada grupo de 100 mil habitantes.</string>
+    <string name="_2015_22e">As recentes ações governamentais de repressão à violência em Alagoas têm conseguido baixar significativamente os índices de violência, fazendo o estado deixar de liderar o ranking de violência negativo nessa área.</string>
+
+    <string name="_2015_23">O valor da expressão (5432&#178; - 5431&#178;):3 é</string>
+    <string name="_2015_23a">1/3.</string>
+    <string name="_2015_23b">(5432 - 5431)&#178;:3.</string>
+    <string name="_2015_23c">2950663.</string>
+    <string name="_2015_23d">3621.</string>
+    <string name="_2015_23e">10863.</string>
+
+    <string name="_2015_24">No pleito eleitoral para eleger o presidente do Grêmio Estudantil de minha escola, votaram 2200 alunos. Para o candidato ser considerado vencedor ele deve obter pelo menos 1 + 50 porcento dos votos válidos. Sabe-se que 2 porcento dos alunos votantes anularam o voto e 3 porcento deles votaram em branco. É correto que:</string>
+    <string name="_2015_24a">A quantidade mínima de votos que elege um candidato é 1101.</string>
+    <string name="_2015_24b">O candidato com votação superior a 1045 votos está eleito.</string>
+    <string name="_2015_24c">43 alunos anularam o voto.</string>
+    <string name="_2015_24d">66 é a quantidade de votos nulos.</string>
+    <string name="_2015_24e">110 é a quantidade de votos válidos.</string>
+
+    <string name="_2015_25">Um self-service funciona de segunda a sextafeira e a cada dia serve pelo menos 640 refeições. Considerando que cada comensal ingere, em média, 140 g de arroz por refeição, a quantidade mínima de arroz servida numa semana é, em média:</string>
+    <string name="_2015_25a">89600 g.</string>
+    <string name="_2015_25b">44800 g.</string>
+    <string name="_2015_25c">448000 kg.</string>
+    <string name="_2015_25d">44800 hg.</string>
+    <string name="_2015_25e">448 kg.</string>
+
+    <string name="_2015_26">Serviços de transporte prestados por motoboy são ofertados em vários pontos da cidade de Maceió. Um deles, em especial, trabalha 4 horas por dia e roda 400 km em 2 dias. Se as condições do trânsito mantiverem-se constantes e o motoboy aumentar sua jornada de trabalho para 6 horas diárias, em quanto tempo ele terá rodado 600 km?</string>
+    <string name="_2015_26a">Quatro dias e meio.</string>
+    <string name="_2015_26b">Exatamente dois dias.</string>
+    <string name="_2015_26c">Menos de dois dias.</string>
+    <string name="_2015_26d">Mais de quatro dias e meio.</string>
+    <string name="_2015_26e">Entre dois e quatro dias.</string>
+
+    <string name="_2015_27">Dois amigos saboreiam petiscos da culinária alagoana num famoso barzinho da cidade. Enquanto o amigo A consome 3 unidades do petisco solicitado, o amigo B consome 2. A conta, no valor de R$ 225,00, será dividida em partes proporcionais ao consumo. Os valores a serem pagos por A e B são, respectivamente:</string>
+    <string name="_2015_27a">R$ 90,00 e R$ 135,00.</string>
+    <string name="_2015_27b">R$ 100,00 e R$ 125,00.</string>
+    <string name="_2015_27c">R$ 135,00 e R$ 90,00.</string>
+    <string name="_2015_27d">R$ 60,00 e R$ 165,00.</string>
+    <string name="_2015_27e">R$ 80,00 e R$ 45,00.</string>
+
+    <string name="_2015_28">Considere N como o conjunto dos números naturais, Q como o conjunto números racionais, I como o conjunto dos números irracionais e R como o conjunto dos números reais. A afirmação falsa é:</string>
+    <string name="_2015_28a">- 1/2 &#8834; <i>Q</i>.</string>
+    <string name="_2015_28b">2,666 &#8712; <i>R</i>*.</string>
+    <string name="_2015_28c">-10 &#8713; <i>N</i>.</string>
+    <string name="_2015_28d">15 &#8713; <i>Q</i>_.</string>
+    <string name="_2015_28e">8,133111331 &#8712; <i>I</i>.</string>
+
+    <string name="_2015_29">É verdadeiro que</string>
+    <string name="_2015_29a">o quadrado da diferença entre <b>a</b>  e <b>b</b> é a expressão a&#178; - b&#178;.</string>
+    <string name="_2015_29b">o cubo do quadrado de <b>a</b> é expresso por (a&#179;)&#178;.</string>
+    <string name="_2015_29c">o quadrado de <b>c</b>, que é a soma dos quadrados de <b>a</b> e <b>b</b>, é expresso por c&#178; = (a + b)&#178;</string>
+    <string name="_2015_29d">a terça parte do quadrado da soma de <b>a</b> e <b>b</b> é a expressão [(a + b)/3]&#178;.</string>
+    <string name="_2015_29e">o quociente do quadrado da diferença entre <b>a</b> e <b>b</b>, pela diferença entre o quadrado de <b>a</b> e <b>b</b> resulta em [(a-b)/(a+b)].</string>
+
+    <string name="_2015_30">Em relação à equação x&#178; + 5x - 2 = 0, é certo afirmar apenas que</string>
+    <string name="_2015_30a">sua menor raiz é uma fração equivalente a 2/6.</string>
+    <string name="_2015_30b">a soma da menor raiz com o sêxtuplo da maior resulta na unidade.</string>
+    <string name="_2015_30c">a menor raiz tem módulo igual a 2.</string>
+    <string name="_2015_30d">as raízes são números inteiros.</string>
+    <string name="_2015_30e">a menor raiz é 1/3.</string>
+
+    <string name="_2015_31">Se A = 0,05; B = 0,009; C = 0,1; D = 0,57 e E = 0,097, é verdade que:</string>
+    <string name="_2015_31a">D &#60; (C + E + A + B).</string>
+    <string name="_2015_31b">D - (C + E) &#60; (A + B).</string>
+    <string name="_2015_31c">A + B + C + D + E > 1.</string>
+    <string name="_2015_31d">B &#60; A &#60; E &#60; C &#60; D.</string>
+    <string name="_2015_31e">1 - (A + B + C + D + E) &#62; D.</string>
+
+    <string name="_2015_32">A expressão</string>
+    <string name="_2015_32a">é um número racional negativo.</string>
+    <string name="_2015_32b">não é um número racional.</string>
+    <string name="_2015_32c">é um número natural.</string>
+    <string name="_2015_32d">é um número irracional.</string>
+    <string name="_2015_32e">é um número inteiro.</string>
+
+    <string name="_2015_33">Certo cidadão registra a queda de um avião. Peritos que analisam a gravação percebem que, em dado momento, 60&#176; é o ângulo formado entre a trajetória da queda do avião e o prédio de 80 m de altura em que a aeronave se chocou. Nesse instante, qual a distância entre o avião e o ponto de impacto?</string>
+    <string name="_2015_33a">[(80&#8730;3)/2] m</string>
+    <string name="_2015_33b">80&#8730;2m.</string>
+    <string name="_2015_33c">80 m.</string>
+    <string name="_2015_33d">[(160&#8730;3)/3]m.</string>
+    <string name="_2015_33e">160 m.</string>
+
+    <!--    <string name="_34">Marque as afirmativas verdadeiras com o número 2, e as falsas com o número 1. \nI) Se três homens fabricam 20 peças, trabalhando 8 horas por dia, 6 homens fabricarão 40 peças idênticas às primeiras, no mesmo espaço de tempo. \nII) 0,5% de 60 é 3.\nIII) 0,25% de 200 é 0,5. \nO número formado de cima para baixo é</string>-->
+    <string name="_2015_34">O resultado da expressão abaixo é</string>
+    <string name="_2015_34a">- 10.</string>
+    <string name="_2015_34b">5.</string>
+    <string name="_2015_34c">10.</string>
+    <string name="_2015_34d">-13.</string>
+    <string name="_2015_34e">-8.</string>
+
+    <string name="_2015_35">Quanto vale 5% da centésima parte de uma dúzia?</string>
+    <string name="_2015_35a">6/10.</string>
+    <string name="_2015_35b">6/100.</string>
+    <string name="_2015_35c">6/10000</string>
+    <string name="_2015_35d">6/1000</string>
+    <string name="_2015_35e">6&#178;.</string>
+
+    <string name="_2015_36">Pode ser inscritível a uma circunferência:</string>
+    <string name="_2015_36a">o retângulo.</string>
+    <string name="_2015_36b">o triângulo equilátero.</string>
+    <string name="_2015_36c">todo quadrilátero.</string>
+    <string name="_2015_36d">o heptágono.</string>
+    <string name="_2015_36e">qualquer triângulo.</string>
+
+    <string name="_2015_37">Na rotisseria do Sr. Carlos, os produtos são vendidos em unidade inteira. Para o lanche da tarde, comprei x pãezinhos, (x+1) iogurtes, (x+6) pastéis e (x 3) potes de geleia. É certo afirmar que</string>
+    <string name="_2015_37a">x + (x+1) + (x+6) + (x+3) é a expressão que representa a totalidade de produtos do lanche.</string>
+    <string name="_2015_37b">os produtos do lanche podem totalizar 22 unidades.</string>
+    <string name="_2015_37c">se comprei 20 unidades de produtos, então x = 4.</string>
+    <string name="_2015_37d">x pode assumir o valor 3.</string>
+    <string name="_2015_37e">x pode assumir valor igual ou superior a 2.</string>
+
+    <string name="_2015_38">Sabe-se que o metro é a unidade que expressa o comprimento das dimensões do conjunto residencial que acaba de ser construído. A área de lazer desse conjunto residencial tem a forma da figura a seguir. Então</string>
+    <string name="_2015_38a">o perímetro da área de lazer é 760 m.</string>
+    <string name="_2015_38b">a superfície da área de lazer vale 26400 m.</string>
+    <string name="_2015_38c">a superfície da área de lazer tem forma de trapézio isósceles.</string>
+    <string name="_2015_38d">o formato da área de lazer é um polígono regular.</string>
+    <string name="_2015_38e">a área de lazer é um poliedro.</string>
+
+    <string name="_2015_39">Com a implantação da “Onda Verde”, a velocidade recomendada para motoristas transitarem pela Av. Fernandes Lima é 50 km/h. O percurso do motorista que, por 0,16 horas, nessa velocidade, cruza semáforos da Av. Fernandes Lima com sinal verde é</string>
+    <string name="_2015_39a">8000 m</string>
+    <string name="_2015_39b">8 m</string>
+    <string name="_2015_39c">80 m</string>
+    <string name="_2015_39d">800 m</string>
+    <string name="_2015_39e">0,8 km</string>
+
+    <string name="_2015_40">Uma pizza seria dividida igualmente entre quatro amigos. Na hora da degustação chegaram três visitantes que foram convidados a participar da refeição. O primeiro solicitou 1/3 da fatia que caberia a um dos amigos; o segundo visitante solicitou 1/4 da fatia que caberia a outro dos amigos; e o terceiro visitante solicitou metade da fatia que caberia a um outro dos amigos. A esse respeito, a afirmação verdadeira é:</string>
+    <string name="_2015_40a">quem comeu menos pizza degustou seus 1/4.</string>
+    <string name="_2015_40b">o terceiro visitante degustou uma fatia menor que a do primeiro visitante.</string>
+    <string name="_2015_40c">o segundo visitante comeu menos pizza.</string>
+    <string name="_2015_40d">quem degustou a maior fatia da pizza foi um visitante.</string>
+    <string name="_2015_40e">o amigo que cedeu 1/3 de sua pizza degustou mais pizza do que o amigo que cedeu 1/4.</string>
+
+
+    <!-- ================================================================================================================================== -->
+    <string name="_2016_1">Das afirmações abaixo, apenas uma está de acordo com o que se expõe no texto. Indique-a.</string>
+    <string name="_2016_1a">Há um risco iminente de extinção da ave saíra apunhalada, conquanto ainda haja chance de reverter esse quadro.</string>
+    <string name="_2016_1b">Sem as florestas de Mata Atlântica, a saíra não tem como se alimentar, o que provocará sua extinção.</string>
+    <string name="_2016_1c">O nome da ave deve-se, simbolicamente, ao perigo de extinção em que ela se encontra.</string>
+    <string name="_2016_1d">Embora a constituição de uma reserva florestal tenha sido indicada pelo governo, ela só será implantada em março de 2016.</string>
+    <string name="_2016_1e">O fato de a saíra viver apenas em lugares muito altos a torna uma espécie fraca, o que dificulta sua sobrevivência.</string>
+
+    <string name="_2016_2">Quanto à acentuação das palavras, assinale a afirmação verdadeira.</string>
+    <string name="_2016_2a">Os vocábulos “é”, “já” e “só” recebem acento por constituírem monossílabos tônicos fechados.</string>
+    <string name="_2016_2b">As palavras “saíra”, “destruída” e “aí” acentuam-se pela mesma razão.</string>
+    <string name="_2016_2c">Acentuam-se “simpática”, “centímetros”, “simbólica” porque todas as paroxítonas são acentuadas.</string>
+    <string name="_2016_2d">A palavra “tendem” deveria ser acentuada graficamente, como “também” e “porém”.</string>
+    <string name="_2016_2e">O nome “Luiz” deveria ser acentuado graficamente, pela mesma razão que a palavra “país”.</string>
+
+    <string name="_2016_3">Qual dos termos abaixo poderia substituir a palavra “alcunha”, sem alterar o sentido do texto?</string>
+    <string name="_2016_3a">Apelido.</string>
+    <string name="_2016_3b">Topônimo.</string>
+    <string name="_2016_3c">Nome científico.</string>
+    <string name="_2016_3d">Sigla.</string>
+    <string name="_2016_3e">Codinome.</string>
+
+    <string name="_2016_4">Entre as alternativas abaixo, apenas uma não está de acordo com o que se expõe no texto. Marque-a.</string>
+    <string name="_2016_4a">O uso da expressão “dito-cujo” deve ser feito com parcimônia, pois não está adequado a qualquer situação de uso da língua.</string>
+    <string name="_2016_4b">A expressão “dito-cujo” funciona como referente, em alguns casos, e integra o vocabulário do português brasileiro.</string>
+    <string name="_2016_4c">Lexicógrafos como Houaiss e Francisco Borba ratificam o ponto de vista do autor do texto.</string>
+    <string name="_2016_4d">Na linguagem coloquial, o uso da língua é sempre jocoso, razão por que se pode usar, nesse nível de linguagem, o termo “dito-cujo”.</string>
+    <string name="_2016_4e">O dicionário, por si só, não constitui um instrumento capaz de chancelar a adequação das palavras e expressões que já são usadas na língua.</string>
+
+    <string name="_2016_5">As funções da linguagem relacionam-se conceitualmente à ideia de que, nas diversas situações de comunicação, um dos seis elementos que compõem esse processo – a saber, emissor, receptor, mensagem, código, referente e canal – prevalece sobre os demais. Em relação ao texto acima, no tocante a esse fenômeno, indique a alternativa correta.</string>
+    <string name="_2016_5a">A função da linguagem predominante é a fática, que testa o canal, pois se verifica no texto uma reflexão sobre esse elemento, isto é, a língua.</string>
+    <string name="_2016_5b">A predominância é da mensagem, para a qual o autor chama a atenção, pretendendo ensinar um conteúdo de forma didática.</string>
+    <string name="_2016_5c">Visto que se trata de uma problematização sobre o próprio código, o texto tem caráter eminentemente metalinguístico.</string>
+    <string name="_2016_5d">Como há uma preocupação do autor em revelar suas ideias e emoções no texto, a centralidade da mensagem recai sobre o emissor.</string>
+    <string name="_2016_5e">Porque mantém um tom literário, o texto tem como função da linguagem predominante a poética, o que justifica as metáforas presentes nele.</string>
+
+    <string name="_2016_6">Em vista da intenção do autor – refletir sobre o uso da expressão “dito-cujo” –, o texto se organiza linguisticamente observando certas propriedades de estilo. Quanto a essas propriedades, apenas está correto o que se afirma em:</string>
+    <string name="_2016_6a">A linguagem é culta, com traços de erudição que restringem a abrangência de interlocutores do texto, conforme objetiva o autor.</string>
+    <string name="_2016_6b">O texto compõe-se em estilo formal, sem perder de vista a proximidade com o leitor, recurso que está adequado à finalidade didática da mensagem.</string>
+    <string name="_2016_6c">Desde o título, que vem em forma de pergunta, o texto busca o coloquialismo, em diálogo simples com o leitor.</string>
+    <string name="_2016_6d">O texto é formal e coloquial ao mesmo tempo, pois se vale de seriedade e de jocosidade para discutir o tema.</string>
+    <string name="_2016_6e">O uso exagerado de palavras próprias da linguagem oral deixa o texto leve e informal, garantindo a compreensão geral deste pelo leitor.</string>
+
+    <string name="_2016_7">Qual das afirmações a seguir dialoga, em seu sentido, com a visão do eu-lírico do poema “Minha vida”?</string>
+    <string name="_2016_7a">Nada na vida é por acaso; por isso, é necessário aproveitar as oportunidades que o destino nos proporciona.</string>
+    <string name="_2016_7b">É necessário fazer o tempo parar, a fim de preservarmos o quanto pudermos a nossa juventude.</string>
+    <string name="_2016_7c">O natal é uma data simbólica, porque representa o nascimento de Jesus, fonte de vida.</string>
+    <string name="_2016_7d">É preciso viver cada dia como se ele fosse o primeiro e o último de nossas vidas.</string>
+    <string name="_2016_7e">O natal nos leva a refletir sobre a força inexorável do tempo, que reúne vida e morte.</string>
+
+    <string name="_2016_8">No poema, aparecem os vocábulos “vida” e “morte”, que, sendo antônimos, contribuem para o desfecho paradoxal expresso nos dois últimos versos. Quanto às relações semânticas dos pares de palavras abaixo, qual das alternativas apresenta um erro?</string>
+    <string name="_2016_8a">extroversão / introversão – antonímia</string>
+    <string name="_2016_8b">experto / esperto – homonímia</string>
+    <string name="_2016_8c">ratificar / retificar – paronímia</string>
+    <string name="_2016_8d">pelo (contração prepositiva) / pelo (substantivo) – homonímia</string>
+    <string name="_2016_8e">concerto / ajuste – sinonímia</string>
+
+    <string name="_2016_9">Marque abaixo a única alternativa que não está de acordo com o texto.</string>
+    <string name="_2016_9a">Os verbos “acender” e “apagar”, tendo em vista o contexto em que aparecem, têm como objeto a chama que é produzida no isqueiro do homem, que não aparece no texto por acaso.</string>
+    <string name="_2016_9b">Na charge, a figura que representa a pedra de crack aparece sorrindo, em oposição ao estado de abatimento do sujeito que está prestes a consumi-la, denunciando, no conjunto, a propaganda enganosa que está por trás do uso dessa droga.</string>
+    <string name="_2016_9c">A fala presente no balão utiliza expedientes linguísticos da comunicação poética para impactar o leitor e dar maior expressividade à mensagem, que tem um viés educativo.</string>
+    <string name="_2016_9d">Os elementos não verbais que servem para compor a imagem do sujeito que consome a droga evidenciam os impactos socioeconômicos gerados por essa prática, os quais vão além dos efeitos meramente individuais de ordem psíquica.</string>
+    <string name="_2016_9e">No tocante ao uso dos pronomes no texto, se a fala dentro do balão fosse produzida em contexto formal – e não em situação coloquial –, deveria adequar-se linguisticamente, podendo fazer-se assim: “Hoje tu me acendes, amanhã eu te apago.”</string>
+
+    <string name="_2016_10">Ainda que o Menino Maluquinho tenha dado à professora a desculpa de que seu modo de falar fora “só gíria”, suas palavras, no segundo quadro da tira “A palavra é gíria”, só não sugerem</string>
+    <string name="_2016_10a">reprovação sutil ao fato de o zoológico ser uma prisão para os animais, razão por que, com a visita ao lugar, os alunos abrirão as jaulas, proporcionando a liberdade aos bichos.</string>
+    <string name="_2016_10b">juízo negativo em relação ao fato de o jardim zoológico ser um lugar de diversão para as pessoas, à custa do sofrimento dos animais que, ali enclausurados, vivem fora do seu habitat natural.</string>
+    <string name="_2016_10c">ironia com o contraste entre o ofício da professora, que deveria ser o de ajudar os alunos na formação da opinião crítica acerca da realidade, e a ordem dela para que os alunos “se preparem” para a visita ao zoológico, onde terão a oportunidade de exporem o lado rude da personalidade humana, regozijando-se com os animais ali encarcerados.</string>
+    <string name="_2016_10d">censura à irracionalidade humana, que parece ser maior do que a dos animais irracionais, os quais, privados da liberdade pelos homens, a estes servem de satisfação e lazer em cativeiro público</string>
+    <string name="_2016_10e">atitude de júbilo com a decisão da professora em proporcionar aos alunos a visita ao jardim zoológico, circunstância oportuna para conhecerem a vida dos animais em cativeiro e poderem se divertir com eles livremente e em local seguro.</string>
+
+    <string name="_2016_11">Todos os alunos demonstram alegria com o anúncio da professora, entretanto, pelo terceiro quadrinho, esta só parece se aborrecer com o comportamento do Menino Maluquinho porque</string>
+    <string name="_2016_11a">entendeu que o aluno pensara em fazer peraltice no zoológico e acabou agindo energicamente com ele.</string>
+    <string name="_2016_11b">percebeu que as palavras do menino tinham tom crítico à sua decisão de levar a turma ao jardim zoológico.</string>
+    <string name="_2016_11c">observou que o Menino Maluquinho é o líder da bagunça na sala de aula.</string>
+    <string name="_2016_11d">reconheceu que a sugestão do garoto inflamou toda a turma, que formaria conjunto com ele na bagunça no zoológico.</string>
+    <string name="_2016_11e">sentiu-se contrariada com o fato de o moleque não ter entendido a finalidade da visita didático-pedagógica.</string>
+
+    <string name="_2016_12">Tomando como base esse texto de Mário de Andrade, assinale a única alternativa falsa quanto às classes de palavras e suas flexões no uso da língua.</string>
+    <string name="_2016_12a">Os verbos “escrever”, “cantar”, “urrar” e “chorar” têm como sujeito o substantivo “Versos”, por isso estão no plural.</string>
+    <string name="_2016_12b">Em: “Versos cantam-se, urram-se, choramse.”, o pronome “se” é índice de indeterminação do sujeito.</string>
+    <string name="_2016_12c">A vírgula, em: “Quem não souber rezar, não leia Religião.”, de acordo com os aspectos básicos da pontuação, está empregada indevidamente, uma vez que não se separa o sujeito do predicado.</string>
+    <string name="_2016_12d">Os substantivos “Escalada”, “Colloque” e “cantiga” são, respectivamente, núcleos dos objetos diretos do verbo “ler”, subentendido em: “Desprezar: A Escalada. Sofrer: Colloque Sentimental. Perdoar: a cantiga do berço...”</string>
+    <string name="_2016_12e">Se substituirmos a preposição “a”, em: “Ode ao Burguês”, pela preposição “de”, teremos o sentido de finalidade alterado para o sentido de posse.</string>
+
+    <string name="_2016_13">Considerando o anúncio, assinale a alternativa falsa quanto às análises sintática, semântica e morfológica dos elementos textuais.</string>
+    <string name="_2016_13a">Ainda que nomeie uma “rede de solidariedade”, a palavra “Fortalece”, em “O Fortalece Aí...”, é masculina, pois a ela antepõe-se o artigo “o”.</string>
+    <string name="_2016_13b">Por ser tomada materialmente, a palavra “Fortalece”, em “O Fortalece Aí”, mudou a sua classificação de verbo para substantivo.</string>
+    <string name="_2016_13c">A voz a que o texto faz menção é apenas a que compõe o balão de fala no alto do anúncio, ou seja, a voz dos idosos, cujo abrigo precisa de doações.</string>
+    <string name="_2016_13d">O termo “dessas pessoas” faz referência a todos os integrantes das instituições de diversos segmentos sociais, apoiadas pela rede de solidariedade “Fortalece Aí”.</string>
+    <string name="_2016_13e">No alto-falante, há um período simples formado por um verbo no imperativo e um advérbio de lugar, que alude ao receptor da mensagem, indicando que este deve, de onde estiver, colaborar com o grupo “Fortalece Aí”.</string>
+
+    <string name="_2016_14">Ainda quanto à natureza semântica (de significado) e sintática (de relação gramatical) dos elementos presentes no texto, há, a seguir, apenas uma alternativa errada. Assinale-a.</string>
+    <string name="_2016_14a">O termo “de idosos” caracteriza o substantivo “abrigo”, funcionando como adjunto adnominal deste.</string>
+    <string name="_2016_14b">“de doações” é complemento do verbo “precisa”, denominando-se objeto indireto, por ser introduzido por preposição.</string>
+    <string name="_2016_14c">Sintaticamente, no anúncio, a palavra “contar” está para “fazer”, assim como “O segredo” está para “Nosso objetivo”.</string>
+    <string name="_2016_14d">“Chegar”, “compartilhar” e “doar” são verbos de primeira conjugação e, no anúncio, estão no modo imperativo.</string>
+    <string name="_2016_14e">“ser uma rede de solidariedade” e “apoiar instituições de diversos segmentos divulgando as suas necessidades” indicam as finalidades para a existência do grupo.</string>
+
+    <string name="_2016_15">As relações de concordância nominal que aparecem nos textos abaixo indicam que os autores identificam-se com a categoria gramatical de gênero masculino. Apenas um texto contraria essa afirmação. Qual?</string>
+    <string name="_2016_15a">“Insistir em algo que nunca dá certo é como calçar um sapato que não serve mais. Machuca, causa bolhas, às vezes até sangra. Aí você percebe que o melhor é ficar descalço. Deixar totalmente livre o coração, enquanto vive. Deixar livre os pés enquanto cresce.”</string>
+    <string name="_2016_15b">“Pega no meu queixo e diz que não sou só eu que sinto medo aqui. Faça alguma coisa ruim, qualquer coisa que me impeça imediatamente de sentir esse amor absurdo por você. Estou nas suas mãos e isso não é uma metáfora. Porque eu já não sei mais nada. Parece que sou mesmo seu foco de vida, mas também pode ser que você ande apenas distraída do resto do mundo.”</string>
+    <string name="_2016_15c">“Assim / Que o dia amanheceu / Lá no mar alto da paixão,/ Dava prá ver o tempo ruir / Cadê você? / Que solidão! / Esquecera de mim? / Enfim, / De tudo o que / Há na terra / Não há nada em lugar / Nenhum / Que vá crescer / Sem você chegar / Longe de ti / Tudo parou / Ninguém sabe / O que eu sofri…”</string>
+    <string name="_2016_15d">“Nasci em Alegrete, em 30 de julho de 1906. Creio que foi a principal coisa que me aconteceu. E agora pedem-me que fale sobre mim mesmo. Bem! Eu sempre achei que toda confissão não transfigurada pela arte é indecente. Minha vida está nos meus poemas, meus poemas são eu mesmo, nunca escrevi uma vírgula que não fosse uma confissão.”</string>
+    <string name="_2016_15e">“Exatamente por execrar a chatice, a longuidão, é que eu adoro a síntese. Outro elemento da poesia é a busca da forma (não da fôrma), a dosagem das palavras. Talvez concorra para esse meu cuidado o fato de ter sido prático de farmácia durante cinco anos.”</string>
+
+    <string name="_2016_16">Marque a alternativa abaixo que apresenta análise incoerente com esse texto de Drummond, escrito em 1984, pouco antes de sua morte, o qual, além de profético quanto à recente tragédia que vitimou o Rio Doce, em Minas Gerais, faz referência à comercialização da mineradora brasileira Vale do Rio Doce.</string>
+    <string name="_2016_16a">Critica o fato de a Companhia Vale do Rio Doce ter sido criada para a exploração das minas de ferro na região de Itabira, em Minas Gerais, o que se comprova pelo tom de lamento presente no poema.</string>
+    <string name="_2016_16b">Sugere, nos dois primeiros versos, um paradoxo entre a finalidade natural do rio e o uso que os homens fazem dele: “O Rio? É doce. / A Vale? Amarga.”</string>
+    <string name="_2016_16c">Insinua, na segunda estrofe, um sentimento de pesar pela indiferença humana diante dos impactos negativos que os interesses econômicos e políticos provocam no meio ambiente e na vida social.</string>
+    <string name="_2016_16d">Menciona, na terceira estrofe, as três dívidas que o Brasil adquiriu, após a privatização da estatal brasileira, considerada, por muitos setores da sociedade, uma forma lesiva ao patrimônio do país: “A dívida interna. A dívida externa. A dívida eterna.”</string>
+    <string name="_2016_16e">Aventa, na última estrofe, que, ao chorarem a perda da estatal, os brasileiros tornaram evidente a insatisfação pela exportação de toneladas de minério de ferro, produzidas anualmente pela empresa.</string>
+
+    <string name="_2016_17">Considerando o sentido metafórico da segunda palavra “doce”, no texto que subscreve a paisagem, o referido rio não mais terá justificado o seu nome porque será</string>
+    <string name="_2016_17a">um rio de água estéril.</string>
+    <string name="_2016_17b">um rio de água potável.</string>
+    <string name="_2016_17c">um rio de água tranquila.</string>
+    <string name="_2016_17d">um rio de água navegável.</string>
+    <string name="_2016_17e">um rio de água saudável.</string>
+
+    <string name="_2016_18">Uma alternativa está errada na análise sintático-morfológica abaixo. Assinale-a.</string>
+    <string name="_2016_18a">Em: “Rio Doce”, “Doce” é um substantivo próprio, funcionando como um aposto especificativo, porque individualiza o substantivo “rio”, de sentido genérico.</string>
+    <string name="_2016_18b">A palavra “Doce”, destacada em: “Pode ser que os brasileiros nunca mais entrem no Rio Doce assim, doce.” e em: “O Rio? É doce.”, tem as respectivas funções sintáticas: aposto e predicativo.</string>
+    <string name="_2016_18c">No verso: “Mais leve a carga.”, a palavra “leve” funciona como predicativo do sujeito “a carga”.</string>
+    <string name="_2016_18d">Em: “Quantos ais!”, a palavra “ais” está no plural porque é um substantivo, o que não pode acontecer com “ai” em: “Ai, antes fosse”, que é uma interjeição.</string>
+    <string name="_2016_18e">As expressões “De ferro” e “Sem berro”, na última estrofe do poema, são adjuntos adnominais de “toneladas” e “lágrimas”, respectivamente.</string>
+
+    <string name="_2016_19">Atualmente a globalização está presente na vida de todos. Ela atua de modo marcante na ciência, na economia, na política, na urbanização etc. Em se tratando de economia, a globalização foi vital para a internacionalização do capitalismo financeiro, para o acesso a produtos e a culturas mundiais. Quando o assunto é urbanização, lá está presente a unificação de padrões de comportamento, também encontrados nas sociedades rurais graças aos avanços tecnológicos e de comunicação desenvolvidos e disponibilizados ao longo dos anos. Apesar de o Brasil se beneficiar com a globalização, também sofre com as desigualdades econômicas por ela proporcionadas. Marque a seguir a alternativa que, respectivamente, melhor demonstra um aspecto positivo e um aspecto negativo da globalização no Brasil.</string>
+    <string name="_2016_19a">Integração do país ao mercado financeiro internacional e o acesso imediato à informação pela rede de computadores.</string>
+    <string name="_2016_19b">Incentivo ao desenvolvimento industrial brasileiro e a geração em larga escala de emprego e renda.</string>
+    <string name="_2016_19c">Desvalorização da cultura regional e prosperidade econômica nacional.</string>
+    <string name="_2016_19d">Possibilidade de intercâmbio científico com outros países e a geração de desemprego em razão da baixa qualificação profissional e da concorrência desigual entre a indústria nacional brasileira e as multinacionais.</string>
+    <string name="_2016_19e">Baixo número de desempregados e elevado índice de analfabetismo no Nordeste do Brasil.</string>
+
+    <string name="_2016_20">Observe a imagem abaixo. Nela percebe-se o fornecimento d’água, com restrições a um cidadão na maior capital do país. Como resposta ao rápido crescimento populacional e a outros fatores humanos, o município de São Paulo passou a ser abastecido pelo Sistema Cantareira, um conjunto de represas criado nos anos de 1970. As represas ficam nas nascentes da bacia do Rio Piracicaba, a cerca de 70 quilômetros da capital. Para manter os reservatórios cheios, o sistema depende das chuvas de verão. Acontece que, em 2014 e 2015, choveu menos que o esperado para o período. A estiagem não foi de uma hora para a outra. Desde 2013, a chuva já estava abaixo da média na região. E olha que, dois anos antes, choveu tanto que o sistema operava com um nível superior a 100%. A Califórnia vive uma crise de água parecida com a de São Paulo. Ao longo de 2013, choveu por lá um terço da água que caiu em São Paulo nos seis primeiros meses de 2014. Chegou a um ponto em que o governo declarou estado de emergência e começou a tomar medidas para preservar os recursos e evitar desperdício. Os cidadãos entraram num regime de economia de água parecido com o racionamento de energia que o Brasil viveu em 2001.\n(Fonte:http://super.abril.com.br/crise-agua/ofundodopoco.shtml).\nAlém das alterações climáticas, outros fatores contribuem para a crise de abastecimento d’água em São Paulo e de energia no Brasil. Marque a alternativa que melhor apresenta alguns deles.</string>
+    <string name="_2016_20a">Aumento populacional, urbanização, poluição dos rios, impermeabilização do solo, falta de planejamento para a gestão dos reservatórios de água e de investimentos no setor elétrico.</string>
+    <string name="_2016_20b">Atividade da pecuária, prática agrícola monocultora, corrupção e violência urbana.</string>
+    <string name="_2016_20c">Processo de desertificação de grandes áreas, invernos rigorosos, desinteresse político e sedentarização.</string>
+    <string name="_2016_20d">Esgotamento dos Aquíferos Guarani e Bauru, poluição do rio Tietê, favelização e baixa densidade demográfica.</string>
+    <string name="_2016_20e">Desmatamento, crise financeira, poluição do solo, industrialização e diminuição das fontes termais no Norte do país.</string>
+
+    <string name="_2016_21">O gráfico abaixo mostra a situação brasileira da disponibilidade de energia elétrica. Com base nele e excetuando-se a energia elétrica importada, podemos afirmar que</string>
+    <string name="_2016_21a">a fonte de energia elétrica renovável com maior potência gerada é o gás natural.</string>
+    <string name="_2016_21b">a energia fóssil com maior potência elétrica gerada é o carvão mineral.</string>
+    <string name="_2016_21c">apesar de sua importância, a geração de energia elétrica das fontes solar e eólica ainda é pouco representativa em relação ao total de energia elétrica produzida.</string>
+    <string name="_2016_21d">a ausência prolongada de chuvas no país não afeta a disponibilidade de energia elétrica.</string>
+    <string name="_2016_21e">a grande maioria da energia elétrica é oriunda de fontes não renováveis.</string>
+
+    <string name="_2016_22">Desde o início da guerra civil na Síria, em março de 2011, o conflito escalou a ponto de se transformar em uma complexa situação em que todos parecem lutar entre si. Forças leais ao presidente Bashar Al-Assad, rebeldes, extremistas muçulmanos e potências estrangeiras são peças de um intrincado jogo que ficou ainda mais complicado com o início dos bombardeios por aviões russos.\nFonte:http://www.bbc.com/portuguese/noticias/2015/10/151002_s iria_xadrez_fd. Acesso em 06/11/2015\nSobre o conflito acima, assinale a alternativa verdadeira.</string>
+    <string name="_2016_22a">A Arábia Saudita apoia Assad e combate os rebeldes sunitas.</string>
+    <string name="_2016_22b">O Irã combate Assad e apoia o grupo radical “Estado Islâmico”.</string>
+    <string name="_2016_22c">Os Estados Unidos são aliados de Assad e ajudam a combater os grupos rebeldes moderados.</string>
+    <string name="_2016_22d">A Rússia opõe-se a Assad e apoia os grupos rebeldes moderados.</string>
+    <string name="_2016_22e">O grupo radical “Estado Islâmico” é combatido tanto pelo governo Assad, como pelos Estados Unidos, Irã e Rússia.</string>
+
+    <string name="_2016_23">Deseja-se determinar a área de um trapézio, cuja base maior mede 1 metro a mais que a altura, e a base menor 1 metro a menos que a altura. Sabendo que a altura desse trapézio mede 4 metros, qual é, em metros quadrados, a área desse trapézio?</string>
+    <string name="_2016_23a">10.</string>
+    <string name="_2016_23b">16.</string>
+    <string name="_2016_23c">20.</string>
+    <string name="_2016_23d">25.</string>
+    <string name="_2016_23e">30.</string>
+
+    <string name="_2016_24">Um jogo de cara ou coroa tinha a seguinte regra: quando o lado da moeda era cara, o jogador ganhava 3 pontos e, quando era coroa, o jogador ganhava apenas 1 ponto. Após lançar a moeda 10 vezes, um determinado jogador obteve 24 pontos. Quantas vezes, nesses 10 lançamentos, saiu o lado cara da moeda para esse jogador?</string>
+    <string name="_2016_24a">3.</string>
+    <string name="_2016_24b">4.</string>
+    <string name="_2016_24c">5.</string>
+    <string name="_2016_24d">6.</string>
+    <string name="_2016_24e">7.</string>
+
+    <string name="_2016_25">Uma caixa contém 20 bolas, sendo 8 bolas brancas, 7 bolas azuis e 5 bolas vermelhas. Qual a porcentagem de bolas brancas nessa caixa?</string>
+    <string name="_2016_25a">20%.</string>
+    <string name="_2016_25b">25%.</string>
+    <string name="_2016_25c">30%.</string>
+    <string name="_2016_25d">35%.</string>
+    <string name="_2016_25e">40%.</string>
+
+    <string name="_2016_26">Uma determinada escola paga para o seu Diretor o salário de R$ 1.800,00 e para os professores o de R$ 1.200,00 neste ano de 2015. Nas negociações trabalhistas, o salário do Diretor, em 2016, será de R$ 1.980,00. Sabendo que o salário dos professores será reajustado na mesma proporção, qual será o salário dos professores em 2016?</string>
+    <string name="_2016_26a">R$ 1.260,00.</string>
+    <string name="_2016_26b">R$ 1.270,00.</string>
+    <string name="_2016_26c">R$ 1.280,00.</string>
+    <string name="_2016_26d">R$ 1.320,00.</string>
+    <string name="_2016_26e">R$ 1.360,00.</string>
+
+    <string name="_2016_27">Resolvendo a seguinte expressão numérica <b>2{2(8 - 3 . 2) - 8 + 2[(8 + 10) ÷ 3]}</b>, o resultado obtido é</string>
+    <string name="_2016_27a">5.</string>
+    <string name="_2016_27b">10.</string>
+    <string name="_2016_27c">16.</string>
+    <string name="_2016_27d">18.</string>
+    <string name="_2016_27e">20.</string>
+
+    <string name="_2016_28">Simplifique a seguinte expressão de produtos notáveis:\n(2x + y)&#178; – (2x – y)&#178; – 4xy.\nQual o resultado obtido?</string>
+    <string name="_2016_28a">4xy.</string>
+    <string name="_2016_28b">2xy.</string>
+    <string name="_2016_28c">0.</string>
+    <string name="_2016_28d">-2xy.</string>
+    <string name="_2016_28e">-4xy.</string>
+
+    <string name="_2016_29">O valor exato da raiz cúbica de 1.728 é</string>
+    <string name="_2016_29a">9.</string>
+    <string name="_2016_29b">12.</string>
+    <string name="_2016_29c">15.</string>
+    <string name="_2016_29d">18.</string>
+    <string name="_2016_29e">25.</string>
+
+    <string name="_2016_30">A equação x&#178; + 4x - 12 = 0 tem como raízes os números</string>
+    <string name="_2016_30a">-2 e -6.</string>
+    <string name="_2016_30b">-2 e 6.</string>
+    <string name="_2016_30c">2 e -6.</string>
+    <string name="_2016_30d">2 e 6.</string>
+    <string name="_2016_30e">-4 e 4.</string>
+
+    <string name="_2016_31">Um prédio projeta, no chão, uma sombra de 15 metros de comprimento. Sabendo que, nesse momento, o sol faz um ângulo de 45º com a horizontal, determine a altura desse prédio em metros.</string>
+    <string name="_2016_31a">10.</string>
+    <string name="_2016_31b">15.</string>
+    <string name="_2016_31c">20.</string>
+    <string name="_2016_31d">25.</string>
+    <string name="_2016_31e">30.</string>
+
+    <string name="_2016_32">Transformando a expressão &#179;&#8730;(3&#8730;3) em uma potência de expoente fracionário, obtemos</string>
+    <string name="_2016_32a">3 elevado a 1.</string>
+    <string name="_2016_32b">3 elevado a 2/3.</string>
+    <string name="_2016_32c">3 elevado a 1/2.</string>
+    <string name="_2016_32d">3 elevado a 1/3.</string>
+    <string name="_2016_32e">1.</string>
+
+    <string name="_2016_33">Um pai possui um terreno no formato de um hexágono regular com lado 12 m. Ele pretende construir um muro dividindo o terreno em dois trapézios de mesma área, um com frente para uma sua e outro para a outra, que serão dados para seus dois filhos. Qual o comprimento do muro?</string>
+    <string name="_2016_33a">12 m</string>
+    <string name="_2016_33b">18 m.</string>
+    <string name="_2016_33c">24 m.</string>
+    <string name="_2016_33d">30 m.</string>
+    <string name="_2016_33e">36 m.</string>
+
+    <!--    <string name="_34">Marque as afirmativas verdadeiras com o número 2, e as falsas com o número 1. \nI) Se três homens fabricam 20 peças, trabalhando 8 horas por dia, 6 homens fabricarão 40 peças idênticas às primeiras, no mesmo espaço de tempo. \nII) 0,5% de 60 é 3.\nIII) 0,25% de 200 é 0,5. \nO número formado de cima para baixo é</string>-->
+    <string name="_2016_34">Um terreno triangular possui dois lados com medidas 16m e 12m que formam entre si um ângulo de 60°. Qual a área desse terreno?</string>
+    <string name="_2016_34a">48m&#178;.</string>
+    <string name="_2016_34b">96m&#178;.</string>
+    <string name="_2016_34c">12 elevado a &#8730;3 m&#178;.</string>
+    <string name="_2016_34d">24 elevado a &#8730;3 m&#178;.</string>
+    <string name="_2016_34e">48 elevado a &#8730;3 m&#178;.</string>
+
+    <string name="_2016_35">Em um restaurante, existem 20 mesas, todas ocupadas, algumas por 4 pessoas e outras por 2 pessoas, num total de 54 fregueses. Qual o número de mesas ocupadas por 4 pessoas?</string>
+    <string name="_2016_35a">5.</string>
+    <string name="_2016_35b">7.</string>
+    <string name="_2016_35c">9.</string>
+    <string name="_2016_35d">11.</string>
+    <string name="_2016_35e">13.</string>
+
+    <string name="_2016_36">Três linhas diferentes de ônibus, A, B e C, passam em um certo ponto a cada 8 min, 12min e 20min, respectivamente. Se às 6 horas, essas três linhas chegam no mesmo instante a esse ponto, em qual horário do dia as três linhas chegarão novamente no mesmo instante a esse mesmo ponto?</string>
+    <string name="_2016_36a">6h30min.</string>
+    <string name="_2016_36b">7h10min.</string>
+    <string name="_2016_36c">7h50min.</string>
+    <string name="_2016_36d">8h.</string>
+    <string name="_2016_36e">9h.</string>
+
+    <string name="_2016_37">Um número de dois algarismos é tal que o algarismo das unidades excede em uma unidade o algarismo das dezenas. Se invertermos os algarismos e somarmos o número resultante ao 1º número obteremos 55. Então este número é</string>
+    <string name="_2016_37a">14.</string>
+    <string name="_2016_37b">23.</string>
+    <string name="_2016_37c">32.</string>
+    <string name="_2016_37d">41.</string>
+    <string name="_2016_37e">45.</string>
+
+    <string name="_2016_38">Reduzindo a expressão abaixo ao numeral mais simples, temos:</string>
+    <string name="_2016_38a">2.</string>
+    <string name="_2016_38b">&#8730;2.</string>
+    <string name="_2016_38c">2 - &#8730;2.</string>
+    <string name="_2016_38d">&#8730;6.</string>
+    <string name="_2016_38e">2+&#8730;2.</string>
+
+    <string name="_2016_39">Certo consumidor gastou tudo que tinha no seu bolso durante as compras em 6 lojas. Em cada uma, gastou R$ 1,00 a mais do que a metade do que tinha ao entrar. Quanto tinha inicialmente?</string>
+    <string name="_2016_39a">R$ 14,00.</string>
+    <string name="_2016_39b">R$ 30,00.</string>
+    <string name="_2016_39c">R$ 62,00.</string>
+    <string name="_2016_39d">R$ 126,00.</string>
+    <string name="_2016_39e">R$ 254,00.</string>
+
+    <string name="_2016_40">Devido à alta do dólar, certo produto teve um aumento de 25% em uma determinada loja. Com a crise econômica e baixa nas vendas, o proprietário da loja resolve vender o produto pelo mesmo valor que era vendido antes da alta do dólar. Então, ele deverá dar um desconto de</string>
+    <string name="_2016_40a">35%.</string>
+    <string name="_2016_40b">30%.</string>
+    <string name="_2016_40c">25%.</string>
+    <string name="_2016_40d">20%.</string>
+    <string name="_2016_40e">15%.</string>
+
+    <!-- ============================================================================================================================================-->
+    <string name="tdica1">Seja calmo!</string>
+    <string name="dica1">Em provas seletivas, como é o caso do IF, o nervosismo não costuma poupar o candidato. Todavia, depende de você conter ou não esse sentimento! Mantenha-se focado em cada questão, em cada leitura, não permita a sua mente pensar em algo fora do contexto, esteja focado na prova! Se você estudou não tem motivo algum para ficar preocupado, portanto esteja concentrado e dedicado apenas a prova.</string>
+
+    <string name="tdica2">Não decore, aprenda!</string>
+    <string name="dica2">Em suas horas de estudo, é normal que algumas informações não entre com tanta facilidade, mas busque entender ao fundo o conteúdo e verá que não é aquele "bixo de sete cabeças", vá ao miolo das informações buscando raízes para o conceito que está estudando, prefira estudar que decorar e verá que há um vasto mundo legal a ser descoberto por você!</string>
+
+    <string name="tdica3">Leia!</string>
+    <string name="dica3">As provas do IF costumam ter vários textos por meio dos quais você necessita manter a cabeça e o foco para compreender bem o conteúdo que está sendo tratado no texto. Sem o costume e a prática da leitura, esse pode ser um trabalho difícil e complicado visto que você pode se cansar e se desleixar. Procure ler livros, sites e, caso ainda não tenha esse hábito, vá desenvolvendo.</string>
+
+    <string name="tdica4">Se informe!</string>
+    <string name="dica4">As provas costumam tratar de assuntos de nosso cotidiano, portanto manter-se informado vai ajudar a dominar um assunto que poderá ser tratado em uma dada questão, o que lhe renderá mais alguns pontinhos!</string>
+
+    <string name="tdica5">Usufrua da prova!</string>
+    <string name="dica5">A prova será sua, então você pode riscar, rasgar, bagunçar, fazer o que quiser com ela! Então usufrua bem de sua prova, faça nela mapas mentais para mostrar a linha de raciocínio de uma dada questão, além de cálculos, isso te ajudará a compreender melhor cada questão e, assim, auxiliará na hora de eliminar alternativas que estarão incorretas conforme o raciocínio.</string>
+
+    <string name="tdica6">Ususfrua do aplicativo!</string>
+    <string name="dica6">Uma das melhores formas de se preparar pra um exame seletivo é pegando as edições anteriores e buscando respondê-las... Por meio desse aplicativo, você pode responder as edições anteriores e, ao final, saber se a nota conseguida seria o suficiente pra ser aprovado no curso que deseja!</string>
+
+</resources>
